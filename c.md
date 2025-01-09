@@ -1,4 +1,4 @@
-# capability /ˌkeɪpəˈbɪlət̬i/
+# capability
 
 - capable: capere("to grasp, take, catch")
 
@@ -13,3 +13,13 @@
 2. c/u. A feature or function that makes something able to perform a specific task(功能)。
 
 示例：Master CPython’s memory management capabilities(注：《CPython Internals》第 14 页)。这句话应该理解为“掌握 CPython 的内存管理功能”。我遇到好几本书有这个用法，如果理解为”能力“则不大准确。
+
+# compiler-compiler 
+
+1.定义
+
+tools used to generate compilers。也称为compiler generator。在一些不严谨的表述中，本来应该属于 parser generator的工具也称为 compiler generator——Well first the term compiler-compiler has been degraded to include parser generators. I blame that on yacc(yet another compiler-compiler) calling itself a compiler compiler. 
+
+2.示例
+
+ META II, TREEMETA, CWIC。
