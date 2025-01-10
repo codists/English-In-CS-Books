@@ -23,3 +23,15 @@ tools used to generate compilers。也称为compiler generator。在一些不严
 2.示例
 
  META II, TREEMETA, CWIC。
+
+# check
+
+vi/vt. to exam sth to ensure it is correct, true, or in good condition.示例：
+
+1.After I'd finished the test, I checked my answers for mistakes.
+
+这种用法比较常见。
+
+2.Unlike PEP 8, there are few tools for checking compliance with PEP 7(注：《CPython Internals》第78页).
+
+在这里，compliance 的意思是 following rules or standards，Unlike PEP 8 (Python's style guide for code), there are fewer tools available to check if your code adheres to or follows the standards set by PEP 7 (the style guide for C code in CPython).
