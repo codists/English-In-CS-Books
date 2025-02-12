@@ -1,5 +1,17 @@
-# median
+# intermediary
 
-c. the value that is the middle one in a set of values arranged in order of size(中位数，中值)。示例：1.假设有一组数 1, 3, 3, 6, 7, 8, 9， 那么 median 是6。2.假设有一组数1, 2, 3, 4, 5, 6, 8, 9，那么 median 是(4+5)/2=4.5。
+(1)intermediary: inter-("between, among") + medius("middle")
 
-A benchmark will produce an average/median runtime of a fixed code snippet so that you can compare multiple versions of Python runtime（《CPython Internals》第353页。）
+**c.** intermediary originally referred to something or someone that is "in the middle" or acts as a "go-between."(媒介)。
+
+示例：An operating system acts as an intermediary between the user of a computer and the computer hardware(《Operating System Concepts》第1页。 
+
+# intermediate
+
+(1)intermediate: inter-(“between, among”) + medius("middle")
+
+**adj.**  being or occuring in the middle(中间的).
+
+示例1：The interrupt routine is called indirectly through the table, with no intermediate routine needed(《Operating System Concepts(tenth edition)》第9页).
+
+示例2：There are three levels of difficulty in this game: low, intermediate, and high.

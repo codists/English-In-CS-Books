@@ -1,9 +1,21 @@
 # parser generator
 
-1.定义
+## 1.定义
 
 A parser generator is a tool that generates a parser from a formal description of a language's grammar. 
 
-2.示例
+## 2.示例
 
 Bison，YACC()，ANTLR。
+
+# preempt
+
+## 1.preemption: pre-("before") + emption(*em-, "to take, to buy")
+
+也写作 pre-emption。c/u. Preemption originally means "a purchase by one before an opportunity is offered to others(有限购买权)"， which later evolved to mean "the act of preventing sth from happening by taking action first(优先采取行动预防某事发生，即先发制人) "
+
+## 2.preempt: back-formation of pre-emption.
+
+也写作pre-empt。vt. to prevent sth from happening by taking action first, to take action before others（抢占，先占）。
+
+示例：The interrupt mechanism also implements a system of interrupt priority levels. These levels enable the CPU to defer the handling of low-priority interrupts without masking all interrupts and makes it possible for a high-priority interrupt to preempt the execution of a low-priority interrupt(《Operating System Concepts》第 11 页)。

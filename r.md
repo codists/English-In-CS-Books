@@ -1,3 +1,9 @@
+# RAM
+
+General-purpose computers run most of their programs from rewritable memory, called main memory (also called random-access memory, or RAM). Main memory commonly is implemented in a semiconductor technology called dynamic random-access memory (DRAM)。
+
+main memory也称为 RAM， primary memory， 关于 memory 的术语非常多，需要根据上下文去理解具体指的是什么，不能一味套用。
+
 # reference implementation
 
 1.refer: re-("back") + fere("to carry")
