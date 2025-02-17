@@ -1,3 +1,11 @@
+# hinge
+
+1.hinge: hangen("to hang")
+
+c. a piece of metal that fastens the edge of a door(固定门的铰链(注：搜实物图来看))。vi. (+on/upon)depends on。
+
+示例：The entire speed of operation of a computer may hinge on the speeds of the secondary storage subsystem and the algorithms that manipulate that subsystem(《Operating System Concepts》第 30 页)。
+
 # humble vs humbled
 
 (1)humble: humus(“earth”)
@@ -8,7 +16,7 @@ adj. 字面意思是“on the ground”, 后面引申为“lowly in kind, state,
 
 I love building tools that help us learn, empower us to create, and move us to share knowledge and ideas with others. I feel humbled, thankful, and proud when I hear how these tools and Python are helping you to solve real-world problems, like climate change or Alzheimer’s...(注：《CPython Internals》第13页)
 
-刚开始看到上面这句话的时候不禁疑惑 humble 就是形容词，为什么不用 humble 而用 humbled 呢？经过查资料，l两者区别如下：
+刚开始看到上面这句话的时候不禁疑惑 humble 就是形容词，为什么不用 humble 而用 humbled 呢？经过查资料，两者区别如下：
 
 1)humble: modest, describe a quanlity of a person(即我们常说的“谦虚”)。
 

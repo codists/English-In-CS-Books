@@ -2,7 +2,15 @@
 
 General-purpose computers run most of their programs from rewritable memory, called main memory (also called random-access memory, or RAM). Main memory commonly is implemented in a semiconductor technology called dynamic random-access memory (DRAM)。
 
-main memory也称为 RAM， primary memory， 关于 memory 的术语非常多，需要根据上下文去理解具体指的是什么，不能一味套用。
+main memory也称为 RAM， primary memory，一边来说，当只使用 memory 时，其实指的是 main memory(RAM)。 关于 memory 的术语非常多，需要根据上下文去理解具体指的是什么，不能一味套用 。
+
+# reclaim
+
+1.reclaim: re-("again") + clamare("cry out, shout, call")
+
+vt. recalim litterally means "to claim back", "to take back", or "to demand the return of sth"。It is often used to describe restoring something to a better state  or asserting ownership over something that was lost or taken away.
+
+示例：When the process terminates, the operating system will reclaim any reusable resources(《Operating System Concepts》第 18 页)。
 
 # reference implementation
 
@@ -31,3 +39,17 @@ reference implementation means the implementation that serves as a standard, gui
 (3)说明
 
 其实 reference implementation 的定义比较模糊，并不是很绝对。
+
+# rigidly
+
+1.rigid: rigere("be stiff(firm or hard)")
+
+adj. stiff or fixed; not able to bent or moved.
+
+2.rigidly
+
+adv. in a stiff or fixed way.
+
+示例：Files may be free-form (for example, text files), or they may be formatted rigidly (for example, fixed fields such as an mp3 music file)(《Operating System Concepts》第 29 页)。
+
+在上面这句话中，rigidly 的意思是“strictly, inflexibly, in a highly structured manner”,当然，这种描述比较抽象。
