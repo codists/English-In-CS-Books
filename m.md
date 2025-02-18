@@ -32,3 +32,11 @@ c. the value that is the middle one in a set of values arranged in order of size
 
 A benchmark will produce an average/median runtime of a fixed code snippet so that you can compare multiple versions of Python runtime（《CPython Internals》第353页。）
 
+# myriad
+
+1.myriad: myrias("ten thousand")
+
+c/adj. Originally, myriad refered to the number ten thousand(10,000), but over time, it came to mean a very larege or countless number of sth.
+
+示例：By now, you can probably see that the term operating system covers many roles and functions. That is the case, at least in part, because of the myriad designs and uses of computers(《Operating System Concepts》第5页)。
+
