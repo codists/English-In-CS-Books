@@ -31,3 +31,17 @@ I love building tools that help us learn, empower us to create, and move us to s
 “I feel humbled, thankful, and proud when I hear how these tools and Python are helping you to solve real-world problems, like climate change or Alzheimer’s..”——后一句说当作者听到人们使用这些工具和 Python 去解决现实世界的问题(如气候变化、阿兹海默症)时，作者感到“humbled, thankful, proud”。
 
 从这里可以看出，其实前后是有一个对比的，前面仅仅是开发一些工具，而后面是去解决现实世界问题，显然后者的影响、意义更大，所以作者感到humbled(自愧不如)。这体现出作者是一个humble(谦虚)的人。
+
+# hybrid
+
+1.hybrid: hybrida("crossbreed")
+
+adj. mixing different elements to create sth new or mixed(混合的，杂交的).
+
+示例1：Skype uses a hybrid peer-to-peer approach. It includes a centralized login server, but it also incorporates decentralized peers and allows two peers to communicate(《Operating System Concepts》第 44 页)。
+
+老是记不住这个单词的意思，现在添加一些记忆方法：
+
+(1)hybrid: highly + breed, 例如： liger(lion + tiger，狮虎兽)。
+
+(2)hybrid car(混动汽车): Cars which combine electric and gasoline power.

@@ -46,6 +46,8 @@ reference implementation means the implementation that serves as a standard, gui
 
 adj. stiff or fixed; not able to bent or moved.
 
+**Mnemonic**：**RIGID = Really Inflexible, Greatly Immovable, Definitely stiff.**
+
 2.rigidly
 
 adv. in a stiff or fixed way.

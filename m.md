@@ -1,3 +1,15 @@
+# manifesto
+
+1.manifestus: manus("hand") + festus"grasp(to quickly take sth)"
+
+2.manifesto: manifestus + -o(suffix used in Latin nouns)
+
+"Manifestus" originally conveyed the idea of something being grasped by hand， Over time, the term evolved into "manifesto," which refers to a public declaration of intentions, opinions, or goals—essentially making something clear or evident to others.
+
+c. a written statement that makes ideas clear and visible to the public.
+
+示例：In 1985, Stallman published the GNU Manifesto, which argues that all software should be free(《Operating System Concepts》第 45 页)。
+
 # marshal
 
 1.marshaling

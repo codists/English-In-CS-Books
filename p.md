@@ -31,3 +31,11 @@ c/u. the distinctive, unusual, or unique feature or characteristic of sth(特性
 也写作pre-empt。vt. to prevent sth from happening by taking action first, to take action before others（抢占，先占）。
 
 示例：The interrupt mechanism also implements a system of interrupt priority levels. These levels enable the CPU to defer the handling of low-priority interrupts without masking all interrupts and makes it possible for a high-priority interrupt to preempt the execution of a low-priority interrupt(《Operating System Concepts》第 11 页)。
+
+# prevalent
+
+1.prevalent: pre-("before, in front of") + valere("have power, be strong")
+
+adj. widespread, existing every commonly(普遍).
+
+示例：Embedded computers are the most prevalent form of computers in existence(《Operating System Concepts》第 45 页)。
