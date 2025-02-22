@@ -40,6 +40,14 @@ reference implementation means the implementation that serves as a standard, gui
 
 其实 reference implementation 的定义比较模糊，并不是很绝对。
 
+# rewind
+
+1.rewind: re-("again") + wind("to turn, to twist")
+
+vi/vt. go back to the beginning, move back to the start.
+
+示例：We may also read(), write(), or reposition() (rewind or skip to the end of the file, for example)(《Operating System Concepts》第 71 页)。
+
 # rigidly
 
 1.rigid: rigere("be stiff(firm or hard)")
