@@ -14,7 +14,7 @@ c. a written statement that makes ideas clear and visible to the public.
 
 (1) add markings, annotations to make certain(某些) details clearer or more visible.
 
-![image-20250224180323249](assets/mark up.png)
+![image-20250224180323249](./assets/mark up.png)
 
 之前一直不理解 mark up 想表示的意思，这里补充图片说明。
 
