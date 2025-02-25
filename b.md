@@ -30,6 +30,12 @@ The benchmark suite is the tool to use when comparing the complete performance o
 
 如 Python 开发中使用的 pyperformance。
 
+# bounded
+
+- **bounded: bound**
+
+adj. describing sth that is limited or has defined boundaries(有明确边界)。bind的过去式是bound, bound的过去式是 bounded。
+
 # breach
 
 1.breach: breche("break")
