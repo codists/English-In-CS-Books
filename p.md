@@ -1,20 +1,30 @@
+# paradigm
+
+-  **pradadigm: para-("beside(next to)") + *deik-("to show")**
+
+c. Paradigm refere to sth serves as a typical example, model or pattern(范式)。
+
+- **示例**
+
+One of the most common forms of remote service is the RPC paradigm, which was designed as a way to abstract the procedure-call mechanism for use between systems with network connections(《Operating System Concepts》第 149 页)。
+
 # parser generator
 
-1.定义
+- **定义**
 
 A parser generator is a tool that generates a parser from a formal description of a language's grammar. 
 
-2.示例
+- **示例**
 
 Bison，YACC()，ANTLR。
 
 # peculiarity
 
-1.peculiar: peculium("private property, personal possession")
+- **peculiar: peculium("private property, personal possession")**
 
 adj. Peculiar literally means "sth that is specially one's own", like personal propery, over time, peculiar envolves to mean "sth that is distinct, unusual or different"。
 
-2.peculiarity: peculiar + -ity
+- **peculiarity: peculiar + -ity**
 
 c/u. the distinctive, unusual, or unique feature or characteristic of sth(特性).
 
@@ -22,11 +32,11 @@ c/u. the distinctive, unusual, or unique feature or characteristic of sth(特性
 
 # preempt
 
-1.preemption: pre-("before") + emption(*em-, "to take, to buy")
+- **preemption: pre-("before") + emption(*em-, "to take, to buy")**
 
 也写作 pre-emption。c/u. Preemption originally means "a purchase by one before an opportunity is offered to others(有限购买权)"， which later evolved to mean "the act of preventing sth from happening by taking action first(优先采取行动预防某事发生，即先发制人) "
 
-2.preempt: back-formation of pre-emption.
+- **preempt: back-formation of pre-emption.**
 
 也写作pre-empt。vt. to prevent sth from happening by taking action first, to take action before others（抢占，先占）。
 
@@ -34,11 +44,13 @@ c/u. the distinctive, unusual, or unique feature or characteristic of sth(特性
 
 # prevalent
 
-1.prevalent: pre-("before, in front of") + valere("have power, be strong")
+- **prevalent: pre-("before, in front of") + valere("have power, be strong")**
 
 adj. widespread, existing every commonly(普遍).
 
-示例：Embedded computers are the most prevalent form of computers in existence(《Operating System Concepts》第 45 页)。
+- **示例**
+
+Embedded computers are the most prevalent form of computers in existence(《Operating System Concepts》第 45 页)。
 
 # primitive
 

@@ -1,14 +1,28 @@
+# manifest
+
+- **定义**
+
+  c. a document listing a ship's contents, cargo, passengers, and crew, for the use of customs officers.
+
+- **示例**
+
+  You’ll use the deploy.yml manifest in the root of the GitHub repo(《quick start kubernetes》第108页).
+
+  在这里，使用的 manifest 强调这个文件是“a structured document”，" a document that  lists specific items(like deployment setting)"。其实用 file, document 也行。
+
 # manifesto
 
-1.manifestus: manus("hand") + festus"grasp(to quickly take sth)"
+- **manifestus: manus("hand") + festus"grasp(to quickly take sth)"**
 
-2.manifesto: manifestus + -o(suffix used in Latin nouns)
+- **manifesto: manifestus + -o(suffix used in Latin nouns)**
 
-"Manifestus" originally conveyed the idea of something being grasped by hand， Over time, the term evolved into "manifesto," which refers to a public declaration of intentions, opinions, or goals—essentially making something clear or evident to others.
+"Manifestus" originally conveyed the idea of something being grasped by hand， Over time, the term evolved into "manifesto," which refers to a public declaration of intentions, opinions, or goals—essentially making something clear or evident to others(宣言).
 
 c. a written statement that makes ideas clear and visible to the public.
 
-示例：In 1985, Stallman published the GNU Manifesto, which argues that all software should be free(《Operating System Concepts》第 45 页)。
+- **示例**
+
+In 1985, Stallman published the GNU Manifesto, which argues that all software should be free(《Operating System Concepts》第 45 页)。
 
 # mark up 
 
