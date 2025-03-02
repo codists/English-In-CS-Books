@@ -40,6 +40,22 @@ reference implementation means the implementation that serves as a standard, gui
 
 其实 reference implementation 的定义比较模糊，并不是很绝对。
 
+# resume
+
+- resume: re-("again") + sumere("to take")
+
+vi/vt. Resume literally means "to take again", over time, it envolve to mean "continue doing sth after a pause"。
+
+- 示例
+
+When a server receives a request, rather than creating a thread, it instead submits the request to the thread pool and resumes waiting for additional requests(《Operating System Concepts》第 177 页)。
+
+在上面这个句子中，resume 也是“continue doing sth after a pause”的意思。当然，英语中有时候为了简洁，往往会省略一些内容，为了更好的理解，这里句子可以改成：
+
+When a server receives a request, rather than creating a thread, it instead stop waiting to submit the request to the thread pool. After submitting the request, server resumes waiting for additional requests.
+
+总之，要理解resume的在具体上下文中的含义，就要把握住“continue doing sth after a pause”的思想。如果句子不全不好理解，就先把句子补全去理解。
+
 # rewind
 
 1.rewind: re-("again") + wind("to turn, to twist")
