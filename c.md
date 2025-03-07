@@ -38,6 +38,20 @@ c. A conduit is a channel often used for protedction(（保护线路的）导线
 
 TBD
 
+# convoy
+
+- convoy: con-("together") + via("road")
+
+c. a group of vehicles traveling together(车队，船队等)。
+
+vt. accompany (a group of vehicles) for protection(护送)。
+
+- 示例
+
+There is a convoy effect as all the other processes wait for the one big process to get off the CPU(《Operating System Concepts》第 207 页)。
+
+以下是个人的理解：其它所有进程(all the other processes)排在一个重量级的进程(one big process后等待，这种场景很像“护送，护航”，所以称为“convoy effect”，effect的意思是"a result or consequence of an action "。convoy effect 直译就是“护航效应”、“护送效应”。
+
 # compiler-compiler 
 
 - **定义**

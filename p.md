@@ -83,3 +83,21 @@ send(P, message)—Send a message to process P.
 receive(Q, message)—Receive a message from process Q
 
 个人认为，从操作系统层面来看，send(), receive() 是不可再分的，原始的，所以称为 primitive。但是从代码层面来说，其实这些函数是由许多语句组成的，那就不再适合称为 primitive。所以个人认为primitive 的定义是笼统的，相对的，没有明确的分界线，看所处的角度(层面)。
+
+# provable
+
+- prove: *per-("forward") + *buh("to be")
+
+vt. to show sth is true。
+
+- provable:
+
+adj. be able to be proven。
+
+- probably:
+
+adv. in a way that be able to be proven。
+
+- 示例
+
+The SJF scheduling algorithm is provably optimal, in that it gives the minimum average waiting time for a given set of processes(《Operating System Concepts》第 207 页)。

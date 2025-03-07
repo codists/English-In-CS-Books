@@ -6,6 +6,20 @@ adj. Dedicated describes sth or sb that is committed to or devoted to a particul
 
 示例：In Chapter 6, you learned that Kubernetes uses a dedicated Service object to provide network connectivity to apps running in Pods.
 
+# disastrous
+
+- disaster: dis-("ill") + astro("star, planet")
+
+c/u. great harm。
+
+- disastrous: adjective form of disaster。
+
+adj. extremely bad。
+
+- 示例
+
+It would be disastrous to allow one process to keep the CPU for an extended period(《Operating System Concepts》第 207 页)。
+
 # discard
 
 -  discard: dis("away") + card

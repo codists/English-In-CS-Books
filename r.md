@@ -8,7 +8,7 @@ main memory也称为 RAM， primary memory，一边来说，当只使用 memory 
 
 1.reclaim: re-("again") + clamare("cry out, shout, call")
 
-vt. recalim litterally means "to claim back", "to take back", or "to demand the return of sth"。It is often used to describe restoring something to a better state  or asserting ownership over something that was lost or taken away.
+vt. recalim litterally means "to claim back", "to take back", or "to demand the return of sth"。It is often used to describe restoring something to a better state  or asserting ownership over something that was lost or taken away(回收).
 
 示例：When the process terminates, the operating system will reclaim any reusable resources(《Operating System Concepts》第 18 页)。
 
