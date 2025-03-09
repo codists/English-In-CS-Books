@@ -1,6 +1,12 @@
+# heterogeneous
+
+- heterogeneous: hetero-("different") + *gene-("give birth, beget") 
+
+adj. consisting of different kinds.
+
 # hinge
 
-1.hinge: hangen("to hang")
+- hinge: hangen("to hang")
 
 c. a piece of metal that fastens the edge of a door(固定门的铰链(注：搜实物图来看))。vi. (+on/upon)depends on。
 
@@ -8,11 +14,11 @@ c. a piece of metal that fastens the edge of a door(固定门的铰链(注：搜
 
 # humble vs humbled
 
-(1)humble: humus(“earth”)
+- humble: humus(“earth”)
 
 adj. 字面意思是“on the ground”, 后面引申为“lowly in kind, state, condition(卑微)”, "not proud that you are important(谦卑)"。
 
-(2)humble vs humbled
+- humble vs humbled
 
 I love building tools that help us learn, empower us to create, and move us to share knowledge and ideas with others. I feel humbled, thankful, and proud when I hear how these tools and Python are helping you to solve real-world problems, like climate change or Alzheimer’s...(注：《CPython Internals》第13页)
 
@@ -24,7 +30,9 @@ I love building tools that help us learn, empower us to create, and move us to s
 
 2)humbled: made less proud, especially by awe or admiration, or by gratitude for help received, an undeserved advantage or honor(即我们常说的“自愧不如”)。
 
-示例：I felt humbled by their generosity.
+- 示例
+
+I felt humbled by their generosity.
 
 “I love building tools that help us learn, empower us to create, and move us to share knowledge and ideas with others.”——前一句说作者自己喜欢使用Python开发工具，这些工具帮助人们学习，赋予人们创造的能力，推动人与人之间的知识分享。
 
@@ -34,11 +42,13 @@ I love building tools that help us learn, empower us to create, and move us to s
 
 # hybrid
 
-1.hybrid: hybrida("crossbreed")
+- hybrid: hybrida("crossbreed")
 
 adj. mixing different elements to create sth new or mixed(混合的，杂交的).
 
-示例1：Skype uses a hybrid peer-to-peer approach. It includes a centralized login server, but it also incorporates decentralized peers and allows two peers to communicate(《Operating System Concepts》第 44 页)。
+- 示例
+
+1：Skype uses a hybrid peer-to-peer approach. It includes a centralized login server, but it also incorporates decentralized peers and allows two peers to communicate(《Operating System Concepts》第 44 页)。
 
 老是记不住这个单词的意思，现在添加一些记忆方法：
 
