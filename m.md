@@ -66,6 +66,16 @@ c. the value that is the middle one in a set of values arranged in order of size
 
 A benchmark will produce an average/median runtime of a fixed code snippet so that you can compare multiple versions of Python runtime（《CPython Internals》第353页。）
 
+# monotonic
+
+-  monotonic: mono-("one, single, along") + tonic("relating to tone")
+
+adj. 1.monotonic literally means speaking in such a way that the sounds stays on the same note without going higher or lower(单调的，这里主要指声音方面的)。2.varying in such a way that it either never decreases or never increases.
+
+- 示例
+
+The rate-monotonic scheduling algorithm schedules periodic tasks using a static priority policy with preemption(《Operating System Concepts》第 230 页)。
+
 # myriad
 
 1.myriad: myrias("ten thousand")
