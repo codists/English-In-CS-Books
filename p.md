@@ -92,6 +92,26 @@ In fact, a process may be interrupted at any point in its instruction stream, an
 
 在上面这个例子中，processing 用于修饰 core, 表示“ core is used for processing”。
 
+# prominent
+
+- prominent: pro-("forward") +minere("project, jut out", mons("mountain"))
+
+adj. prominent litrerally imply sth "stands out, jut out", over time, means "very noticeable, important, or famous(突出的，重要的，著名的)"
+
+示例:
+
+Lambda expressions—as well as similar functions known as closures—are a prominent feature of functional programming languages and have been available in several nonfunctional languages as well including Python, C++, and C#(《Operating System Concepts》第 174 页)。
+
+- prominence
+
+u. the state of being import or famous。个人觉得 prominence 直接翻译成中文不大好翻译。
+
+示例:
+
+Furthermore, as we have emphasized in earlier chapters, the prominence of multicore systems has brought an increased emphasis on developing multithreaded applications(《Operating System Concepts》第 259 页)。
+
+在上面这个例子中，the prominence of multicore systems 想表示的是“the growing importance and widespread use of multicore systems”。上面这句话翻译成中文意为“此外，正如我们在前面章节所强调的那样，多核系统的突出地位使得开发应用程序的重要性日益增加”。
+
 # provable
 
 - prove: *per-("forward") + *buh("to be")
@@ -102,7 +122,7 @@ vt. to show sth is true。
 
 adj. be able to be proven。
 
-- probably:
+- provably:
 
 adv. in a way that be able to be proven。
 

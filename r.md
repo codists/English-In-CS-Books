@@ -66,13 +66,13 @@ vi/vt. go back to the beginning, move back to the start.
 
 # rigidly
 
-1.rigid: rigere("be stiff(firm or hard)")
+- rigid: rigere("be stiff(firm or hard)")
 
 adj. stiff or fixed; not able to bent or moved.
 
 **Mnemonic**：**RIGID = Really Inflexible, Greatly Immovable, Definitely stiff.**
 
-2.rigidly
+- rigidly
 
 adv. in a stiff or fixed way.
 
