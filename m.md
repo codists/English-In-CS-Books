@@ -66,6 +66,16 @@ c. the value that is the middle one in a set of values arranged in order of size
 
 A benchmark will produce an average/median runtime of a fixed code snippet so that you can compare multiple versions of Python runtime（《CPython Internals》第353页。）
 
+# moderate
+
+- moderate: moderatus("within bounds")
+
+adj. neither small nor large(中等的)。
+
+- 示例
+
+TBD
+
 # monotonic
 
 -  monotonic: mono-("one, single, along") + tonic("relating to tone")

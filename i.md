@@ -1,3 +1,29 @@
+# indefinitely
+
+- indefinite: in-("not") + definitus("defined, set limite"，参考 definite)。
+
+adj. not exact(不确定的), without clear limit(无限期的)。
+
+- indefinitely: indefinite + -ly
+
+adv. for a period of time with no fixed end(不确定地，无限期地)。
+
+示例：A process waiting indefinitely under the circumstances just described is an example of a “liveness failure.”(《Operating System Concepts》第 283 页)。
+
+# imperative &  imperatively
+
+- imperative: im-("in") + parare("to arrange, prepare, ")
+
+  adj. This root reflects the idea of authority or necessity, which aligns with the meaning of "imperative" as something crucial or commanding(命令)。
+
+- imperatively
+
+  adv. in a way that is expressed as an order。
+
+  示例：`kubectl scale --replicas 5 deployment/qsk-deploy`——Performing scaling operations imperatively with the kubectl scale command can be dangerous.
+
+  在上面这个示例中，为什么用“imperatively”呢？因为前面是使用命令(kubectl scale)进行操作的。
+
 # intermediary
 
 - intermediary: inter-("between, among") + medius("middle")
@@ -20,17 +46,29 @@ An operating system acts as an intermediary between the user of a computer and t
 
 ​	(2)There are three levels of difficulty in this game: low, intermediate, and high.
 
-# imperative &  imperatively
+# inversion
 
-- imperative: im-("in") + parare("to arrange, prepare, ")
+- invert: in-("in") + vertere("to turn")
 
-  adj. This root reflects the idea of authority or necessity, which aligns with the meaning of "imperative" as something crucial or commanding(命令)。
+vt. to turn sth upside down(使颠倒)。
 
-- imperatively
+- inversion： act of inverting
 
-  adv. in a way that is expressed as an order。
+- **invert vs reverse**
 
-  示例：`kubectl scale --replicas 5 deployment/qsk-deploy`——Performing scaling operations imperatively with the kubectl scale command can be dangerous.
+这两个词不好区分在于都包含 "opposite" 之意，目前我也没找到什么比较好的区分特征，先记录。
 
-  在上面这个示例中，为什么用“imperatively”呢？因为前面是使用命令(kubectl scale)进行操作的。
+invert: turn upside down，turn inside out；flip。
+
+示例1： the number 9 looks like an inverted 6
+
+reverse: change in order, side, direction；reorder。
+
+示例1： 
+
+Consider a list of two fractions: 1/2, 3/4.
+
+If you invert the fractions: 2/1, 4/3.
+
+If you reverse the fractions: 3/4, 1/2.
 

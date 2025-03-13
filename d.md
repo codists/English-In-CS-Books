@@ -1,3 +1,17 @@
+# daunting
+
+- daunt: dom-("control")
+
+vt. to make sb feel sightly frightened or worried about their ability to achieve sth(使吓到，使气馁)。
+
+- daunting: 
+
+adj. making sb feel slightly frightened or worried about their ability  to achieve sth(令人发怵的，使人气馁的)。
+
+- 示例
+
+Trying to identify when to use which tool, however, can be a daunting challenge (《Operating System Concepts》第 283 页)。
+
 # dedicated
 
 (1)dedicated: de-("complete, thoroughly") + dicare("to proclaim, to delcare")

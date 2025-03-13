@@ -30,6 +30,24 @@ c/u. the distinctive, unusual, or unique feature or characteristic of sth(特性
 
 示例：Only the device driver knows the peculiarities of the specific device to which it is assigned(《Operating System Concepts》第 32 页)。
 
+# pessimistic
+
+- pessimism: pessimus("worst, very bad")
+
+u. the tendency to see the bad side of things(悲观主义，悲观情绪)。
+
+- pessimist
+
+c. a person who thinks that bad things are more likely to happen(悲观主义者)。
+
+- pessimistic: pessimist + -ic。
+
+adj. tending to think the worst aspect of things or believe that the worst will happen(悲观的).
+
+- optimistically
+
+optimistic(乐观的) 构词法同 pessimistic, 词根是 optimus，这里不再赘述。
+
 # preempt
 
 - preemption: pre-("before") + emption(*em-, "to take, to buy")
@@ -74,7 +92,7 @@ Primitive is the most simple operation or function that are provied by a sytem, 
 
 - 示例
 
-1.operating system primitiv
+1. operating system primitive
 
 Under direct communication, each process that wants to communicate must explicitly name the recipient or sender of the communication. In this scheme, the send() and receive() primitives are defined as: 
 
