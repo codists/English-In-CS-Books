@@ -20,9 +20,14 @@ adv. for a period of time with no fixed end(不确定地，无限期地)。
 
   adv. in a way that is expressed as an order。
 
-  示例：`kubectl scale --replicas 5 deployment/qsk-deploy`——Performing scaling operations imperatively with the kubectl scale command can be dangerous.
 
-  在上面这个示例中，为什么用“imperatively”呢？因为前面是使用命令(kubectl scale)进行操作的。
+- 示例
+
+1.`kubectl scale --replicas 5 deployment/qsk-deploy`——Performing scaling operations imperatively with the kubectl scale command can be dangerous.
+
+在上面这个示例中，为什么用“imperatively”呢？因为前面是使用命令(kubectl scale)进行操作的。
+
+2.Imperative language(procedual language): Language for implementing algorithms that are state-based (e.g., C, C++, Java, and C#).
 
 # intermediary
 

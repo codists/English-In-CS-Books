@@ -1,3 +1,11 @@
+# hazard
+
+- c. sth that is dangerous and likely to cause damage(危害，风险，隐患)
+
+示例：We also discussed various challenges in designing applications that are free from race conditions, including liveness hazards such as deadlocks (《Operating System Concepts》第 287 页)。
+
+在上面这个例子中，liveness 不是 harzard, deadlock是hazard, 是一种liveness hazard，即“liveness hazard refers to situations where liveness is compromised, such as deadlock”。
+
 # heterogeneous
 
 - heterogeneous: hetero-("different") + *gene-("give birth, beget") 

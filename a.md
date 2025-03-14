@@ -1,3 +1,13 @@
+# adverse
+
+- adverse: ad-("toward, against") + vetere("to turn")
+
+adj. Adverse literally means "to turn against(反对)，opposing(相反的)". having a negative or harmful effect on sth(负面的，不利的)。
+
+- 示例
+
+Obviously, if two readers access the shared data simultaneously, no adverse effects will result(《Operating System Concepts》第 291 页)。
+
 # affinity
 
 - affinity: ad-("to") + finis("a border, a boundry", 参考 finish("to bring to an end")) 
