@@ -28,6 +28,26 @@ vi/vt. to exam sth to ensure it is correct, true, or in good condition.
 
 在这里，compliance 的意思是 following rules or standards，Unlike PEP 8 (Python's style guide for code), there are fewer tools available to check if your code adheres to or follows the standards set by PEP 7 (the style guide for C code in CPython).
 
+# coherency
+
+- coherence: co-("together") + haerere("to adhere, stick")
+
+u. sth logically or structurally connected and consistent(连贯性)。
+
+- coherence vs coherency
+
+ 两者意思一样，暂时没看出有啥区别，先记录。
+
+1)However, HTM does require that existing cache hierarchies and cache coherency protocols be modified to support transactional memory(《Operating System Concepts》第 312 页)。
+
+2)Discuss, with examples, how the problem of maintaining coherence of cached data manifests itself in the following processing environments:
+
+a.Single-processor systems
+
+b.Multiprocessor systems
+
+c.Distributed systems
+
 # conduit
 
 - **conduit: con-("with, together") + ducere("to lead")**

@@ -102,6 +102,12 @@ receive(Q, message)—Receive a message from process Q
 
 个人认为，从操作系统层面来看，send(), receive() 是不可再分的，原始的，所以称为 primitive。但是从代码层面来说，其实这些函数是由许多语句组成的，那就不再适合称为 primitive。所以个人认为primitive 的定义是笼统的，相对的，没有明确的分界线，看所处的角度(层面)。
 
+# a priori
+
+adj/adv.  presupposed by experience(凭经验预设的)，两个词组合形成一个形容词。
+
+示例：Note that the resources must be claimed a priori in the system(《Operating System Concepts》第 333 页)。
+
 # processing
 
 - adjective 用法
