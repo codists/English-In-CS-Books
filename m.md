@@ -66,6 +66,32 @@ c. the value that is the middle one in a set of values arranged in order of size
 
 A benchmark will produce an average/median runtime of a fixed code snippet so that you can compare multiple versions of Python runtime（《CPython Internals》第353页。）
 
+# middle vs midst
+
+- middle
+
+s. the central point(中间的)；adj. in the central point(中间的)。
+
+- midst
+
+u/prep. among(在......之中)。
+
+- middle vs midst
+
+之所以有这个疑问是初次查字典的时候，各词典都写着midst 的意思是“u. the middle point”，这让人看着很懵，难懂是一样的意思？其实不是。middle 是真正的“centre, central(中间的)”，而 midst 是“among(在......之中)”，即： Midst means when you are in the area no matter where you are in whether in the middle or around the edge, while in the middle meaning is exactly you are in the center of something which also means you are in between something that equals in the distance!
+
+示例：
+
+1.In the sequence a, b, c, d, e, the middle letter is c.
+
+在上面这个例子中，因为 c 在中间位置，所以用 middle。
+
+2.We never gave up hope in the midst of our troubles(我们在困境中从未放弃希望)。
+
+在上面这个例子中，表示的是 among, 所以用 midst 更合适。
+
+3.If the process was in the midst of updating a file, terminating it may leave that file in an incorrect state()。
+
 # moderate
 
 - moderate: moderatus("within bounds")

@@ -1,3 +1,21 @@
+# bare machine & bare-machine
+
+- bare machine(裸机)
+
+In information technology, bare machine (or bare-metal computer) is a computer which has no operating system
+
+- bare-machine
+
+adj. 
+
+示例：The memory-management algorithms vary from a primitive bare-machine approach to a strategy that uses paging(《Operating System Concepts》第 342 页)。
+
+- bare-metal(裸金属)
+
+adj. TBD
+
+参考：https://www.databank.com/resources/blogs/what-is-bare-metal-meaning/
+
 # benchmark
 
 - 定义 
