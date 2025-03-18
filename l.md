@@ -1,9 +1,9 @@
-# immediate caller(直接调用者)
+# leftover
 
-## 1.immediate: im-("not, opposite of") + mediate("in the middle")
+(1)leftover: left("to allow to remain") + over("beyond")
 
-adj. nearest in space or relationship, with nothing interposed(直接的)。
+adj. remaining, not used up(剩下的)； c. sth left over(残存物，遗留物)。
 
-Generators have a major limitation: they can yield values only to their immediate caller(《CPython Internals》第272页)。
+(2)示例
 
-每次看到 immediate, intermediate, mediate 这三个单词我就犯迷糊，这里梳理一下。
+Which is the leftover piece—the one on the top or the one on the bottom?(《Operating System Concepts》第 359 页)。

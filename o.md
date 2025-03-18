@@ -32,3 +32,13 @@ overhead costs(间接支出/间接开销/间接成本，同 indirect costs):  Co
 在计算机书籍里面，overhead 大多表示的也是“overhead costs”这个意思，会被笼统的翻译成“开销”。
 
 Because the CPython interpreter process has a significant overhead, the Pool will consider each process in the pool a worker. If a worker has completed, it will be reused(《CPython Internals》第232页)。
+
+# oversubscribe
+
+- oversubscribed: over("beyond") + subscribe + -ed
+
+adj. applied for in greater quantities than are available(超额订阅).
+
+- 示例
+
+The advantage of standard swapping is that it allows physical memory to be oversubscribed, so that the system can accommodate more processes than there is actual physical memory to store them(《Operating System Concepts》第 377 页)。

@@ -1,6 +1,12 @@
+# nanosecond
+
+- nanosecond: nano-(“a dwarf”) + second("a unit of time")
+
+c.one-billionth (10⁻⁹) second。感觉这些单位都不好记。
+
 # navigate
 
-(1)navigate: navis("ship") + *ag("to drive, move")
+- navigate: navis("ship") + *ag("to drive, move")
 
 vi/vt. to direct the way(导航)
 

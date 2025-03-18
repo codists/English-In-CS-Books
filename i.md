@@ -1,14 +1,12 @@
-# indefinitely
+# immediate caller(直接调用者)
 
-- indefinite: in-("not") + definitus("defined, set limite"，参考 definite)。
+- immediate: im-("not, opposite of") + mediate("in the middle")
 
-adj. not exact(不确定的), without clear limit(无限期的)。
+adj. nearest in space or relationship, with nothing interposed(直接的)。
 
-- indefinitely: indefinite + -ly
+Generators have a major limitation: they can yield values only to their immediate caller(《CPython Internals》第272页)。
 
-adv. for a period of time with no fixed end(不确定地，无限期地)。
-
-示例：A process waiting indefinitely under the circumstances just described is an example of a “liveness failure.”(《Operating System Concepts》第 283 页)。
+每次看到 immediate, intermediate, mediate 这三个单词我就犯迷糊，这里梳理一下。
 
 # imperative &  imperatively
 
@@ -28,6 +26,18 @@ adv. for a period of time with no fixed end(不确定地，无限期地)。
 在上面这个示例中，为什么用“imperatively”呢？因为前面是使用命令(kubectl scale)进行操作的。
 
 2.Imperative language(procedual language): Language for implementing algorithms that are state-based (e.g., C, C++, Java, and C#).
+
+# indefinitely
+
+- indefinite: in-("not") + definitus("defined, set limite"，参考 definite)。
+
+adj. not exact(不确定的), without clear limit(无限期的)。
+
+- indefinitely: indefinite + -ly
+
+adv. for a period of time with no fixed end(不确定地，无限期地)。
+
+示例：A process waiting indefinitely under the circumstances just described is an example of a “liveness failure.”(《Operating System Concepts》第 283 页)。
 
 # intermediary
 
