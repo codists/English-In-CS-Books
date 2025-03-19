@@ -30,6 +30,24 @@ c/u. the distinctive, unusual, or unique feature or characteristic of sth(特性
 
 示例：Only the device driver knows the peculiarities of the specific device to which it is assigned(《Operating System Concepts》第 32 页)。
 
+# perceive
+
+- perceive: per-("thoroughly, completely, entirely") + capere("to take, to grasp")
+
+Perceive literally means "to take entirely", figuratively, means "to grasp with the mind(to view(看待)， to understand(理解)，to comprehend)"；
+
+vt. be come aware of sth。
+
+- 示例
+
+1.Virtual memory involves the separation of logical memory as perceived by developers from physical memory(《Operating System Concepts》第 390 页)。
+
+在上面这个例子中，整句话的意思是“虚拟内存涉及将开发者所感知的逻辑内存与物理内存分离”。
+
+2.His mouth fell open as he perceived the truth(当他意识到真相时，他的嘴张得大大的)。
+
+之前一直不能很好的理解 perceive 的意思，大概是因为对 aware/awareness 的理解一直局限于“意识”，其实也可以扩展为为“对......的认识，感知，理解，明白”。
+
 # pessimistic
 
 - pessimism: pessimus("worst, very bad")
@@ -47,6 +65,20 @@ adj. tending to think the worst aspect of things or believe that the worst will 
 - optimistically
 
 optimistic(乐观的) 构词法同 pessimistic, 词根是 optimus，这里不再赘述。
+
+# precaution
+
+- caution: *keu-("to see, observe")
+
+u. great care and attention(小心, 谨慎)。
+
+- precaution: pre-("before") + caution
+
+c. an action taken in advance to prevent sth unpleasant, dangerous or inconvinient from happening(预防措施)。
+
+- 示例
+
+Dynamic linking can help to ease this restriction, but it generally requires special precautions and extra work by the programmer(《Operating System Concepts》第 390 页)。
 
 # preempt
 

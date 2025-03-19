@@ -12,6 +12,10 @@ adj. making sb feel slightly frightened or worried about their ability  to achie
 
 Trying to identify when to use which tool, however, can be a daunting challenge (《Operating System Concepts》第 283 页)。
 
+# de-(词根)
+
+completely。
+
 # dedicated
 
 (1)dedicated: de-("complete, thoroughly") + dicare("to proclaim, to delcare")

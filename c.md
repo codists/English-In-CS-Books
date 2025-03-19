@@ -58,6 +58,16 @@ c. A conduit is a channel often used for protedction(（保护线路的）导线
 
 TBD
 
+# confer
+
+- confer: con-("together") + fere("to bear, carry")
+
+vi/vt. to give sth(a title, degree, benefit or right)(给予)。
+
+- 示例
+
+The ability to execute a program that is only partially in memory would confer many benefits(《Operating System Concepts》第 390 页)。
+
 # convoy
 
 - convoy: con-("together") + via("road")
