@@ -20,6 +20,20 @@ c/u. a natural connection(亲缘性), attraction(亲和力) or relationship(密�
 
 This is known as processor affinity—that is, a process has an affinity for the processor on which it is currently running(《Operating System Concepts》第 207 页)。
 
+# approximation
+
+- approximate: ad-("to") + proximus("nearest")
+
+vi/vt. to be almost the same as. adj. not completely accurate but close(大概的).
+
+- approximation: noun of action from approximate
+
+c. a value  that is nearly but not exactly correct.
+
+- 示例
+
+Could you give me a rough approximation of how many people will be coming?
+
 # automaton & automata
 
 - automaton: auto-("self") + matos("thinking, willing")

@@ -4,6 +4,20 @@ General-purpose computers run most of their programs from rewritable memory, cal
 
 main memory也称为 RAM， primary memory，一边来说，当只使用 memory 时，其实指的是 main memory(RAM)。 关于 memory 的术语非常多，需要根据上下文去理解具体指的是什么，不能一味套用 。
 
+# reaper
+
+- reap
+
+vi/vt. to cut and collect a grain crop(收割)。
+
+- reaper
+
+c. a machine that cut and collect crops(收割机)。
+
+- 示例
+
+Such kernel routines are often known as reapers, and they may apply any of the page-replacement algorithms covered in Section 10.4(《Operating System Concepts》第 417 页)。
+
 # reclaim
 
 1.reclaim: re-("again") + clamare("cry out, shout, call")
