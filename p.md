@@ -66,6 +66,16 @@ adj. tending to think the worst aspect of things or believe that the worst will 
 
 optimistic(乐观的) 构词法同 pessimistic, 词根是 optimus，这里不再赘述。
 
+# platter 
+
+- platter: plate("metal plate")
+
+c. large, shallow dish for holding food(大浅盘)。
+
+- 示例
+
+Conceptually, HDDs are relatively simple (Figure 11.1). Each disk platter has a flat circular shape, like a CD(《Operating System Concepts》第 450 页)。
+
 # precaution
 
 - caution: *keu-("to see, observe")

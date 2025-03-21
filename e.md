@@ -8,6 +8,16 @@ adj. able to choosen(有资格的)。
 
 In this section, we describe the steps in this procedure, from compiling a program to placing it in memory, where it becomes eligible to run on an available CPU core(《Operating System Concepts》第 75 页)。
 
+# entail
+
+- entail: en-("to make") + taile("legal limitation")
+
+vt. involve sth as a necessary part(使必要，牵涉)。
+
+- 示例
+
+For HDDs, meeting this responsibility entails minimizing access time and maximizing data transfer bandwidth(《Operating System Concepts》第 457 页)。
+
 # exclusive
 
 - exclusive:ex-("out, away") + claudere("to close, to shout out")
