@@ -20,6 +20,18 @@ spawn原来的意思是“spreading out of fish eggs released in water”，后�
 
 CPython provides both a high-level and a low-level API for creating, spawning, and controlling threads from Python(《CPython Internals》第250页)。
 
+# spontaneously
+
+- spontaneous: sponte("of one's own accord, willingly(自愿)")
+
+adj. in a way that is natural, often sudden, and not planned or forced(自发的)。
+
+- spontaneously
+
+- 示例
+
+Error detection determines if a problem has occurred — for example a bit in DRAM spontaneously changed from a 0 to a 1, the contents of a network packet changed during transmission, or a block of data changed between when it was written and when it was read(《Operating System Concepts》第 462 页)。
+
 ## storage
 
 下面是根据本人理解的进行总结，基于“虚实”进行分类。

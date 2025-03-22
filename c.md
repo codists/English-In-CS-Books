@@ -12,6 +12,16 @@
 
 示例：Master CPython’s memory management capabilities(注：《CPython Internals》第 14 页)。这句话应该理解为“掌握 CPython 的内存管理功能”。我遇到好几本书有这个用法，如果理解为”能力“则不大准确。
 
+# chassis
+
+- chassis: capsa("box, case")
+
+c. the frame of sth。
+
+- 示例
+
+To allow a system to gain access to more storage, either an individual storage device, a device in a chassis, or multiple drives in a chassis can be connected via USB FireWire or Thunderbolt ports and cables(《Operating System Concepts》第 470 页)。
+
 #  check
 
 - **定义**
