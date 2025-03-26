@@ -58,6 +58,22 @@ b.Multiprocessor systems
 
 c.Distributed systems
 
+# commodity
+
+- commodity:  com-("together, with") + modus("measure, manner"，*med- "take appropriate measures")
+
+c. a mass-produced unspecialized product/good。
+
+- 示例
+
+Typically, this occurs on commodity hardware rather than RAID arrays. For example, HDFS can store N copies of an object on N different computers(《Operating System Concepts》第 484 页)。
+
+刚看到 commodity hardware 的时候很不理解这两个词项组合在一起想表达什么意思，之所以不理解，是因为对commodity 理解不到位，刚开始的时候将commodity 理解为了“products can be bought and sold(即商品，good)”，其实， commodity 还暗含"mass-produced, unspecialized, economic(经济的，大量生产的)" 之意，
+
+所以上面这句话的意思：通常，这种情况发生在商用硬件(”指普通、低成本的标准硬件，区别于专用高端设备)/普通硬件上，而非RAID阵列。例如，HDFS可以在N台不同的计算机上存储一个对象的N个副本。
+
+Commodity hardware in computing is computers or components that are readily available, inexpensive and easily interchangeable with other commodity hardware. Almost all PCs use commodity hardware. The term is most used for general-purpose servers that can be used in any role. Commodity hardware is synonymous with off-the-shelf hardware. It is contrasted with proprietary, custom or bespoke hardware.
+
 # conduit
 
 - **conduit: con-("with, together") + ducere("to lead")**
