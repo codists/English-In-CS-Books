@@ -1,3 +1,13 @@
+# oddity
+
+- oddity: odd + -ity
+
+c. odd characteristic or trait.
+
+- 示例
+
+To encapsulate the details and oddities of different devices, the kernel of an operating system is structured to use device-driver modules(《Operating System Concepts》第 490 页)。
+
 # optimal & optimum
 
 - optimal: optimum + -al
@@ -11,7 +21,7 @@ optimum也可以做形容词，意思和 optimal 一样，意为"best"。看到�
 
 The SJF scheduling algorithm is provably optimal, in that it gives the minimum average waiting time for a given set of processes(《Operating System Concepts》第 207 页)。
 
-## overhead
+# overhead
 
 - overhead: over-("above") + head(“top part, uppermost section”)
 
