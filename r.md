@@ -54,6 +54,22 @@ reference implementation means the implementation that serves as a standard, gui
 
 其实 reference implementation 的定义比较模糊，并不是很绝对。
 
+# reserve
+
+- reserve: re-("back") + servare("to keep")
+
+vt. to keep back for further use。
+
+- 示例 
+
+Most CPUs have two interrupt request lines. One is the nonmaskable interrupt, which is reserved for events such as unrecoverable memory errors(《Operating System Concepts》第 496 页)。
+
+- reserve vs preserve
+
+reserve: to save sth for later use。
+
+preserve: maintain sth in its original manner/state。
+
 # resume
 
 - resume: re-("again") + sumere("to take")
