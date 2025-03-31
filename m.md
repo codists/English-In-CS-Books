@@ -1,3 +1,13 @@
+# malfunction
+
+- malfunction: mal-("bad") + function
+
+c/u. a situation in which a system stops working normally(故障)。
+
+- 示例
+
+An operating system that uses protected memory can guard against many kinds of hardware and application errors, so that a complete system failure is not the usual result of each minor mechanical malfunction(《Operating System Concepts》第 511 页)。
+
 # manifest
 
 - **定义**

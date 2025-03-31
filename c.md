@@ -74,6 +74,24 @@ Typically, this occurs on commodity hardware rather than RAID arrays. For exampl
 
 Commodity hardware in computing is computers or components that are readily available, inexpensive and easily interchangeable with other commodity hardware. Almost all PCs use commodity hardware. The term is most used for general-purpose servers that can be used in any role. Commodity hardware is synonymous with off-the-shelf hardware. It is contrasted with proprietary, custom or bespoke hardware.
 
+# compensate
+
+- compensate: com-("together, with") + pensare("weight, pay")
+
+vt. give (sb) sth, like money, in recognition of loss, suffering or injure(补偿)。vi. to offset an error, defect, or undesired effect(弥补(错误，缺陷，不希望的结果))。
+
+- 示例
+
+示例1：His enthusiasm compensates for his lack of skil(他的热情弥补了他技术上的不足)。
+
+在这个例子中，使用 “enthusiasm” 来弥补 “lack of skill”。
+
+示例2：Operating systems can often compensate effectively for transient failures. For instance, a disk read() failure results in a read() retry, and a network send() error results in a resend(), if the protocol so specifies(《Operating System Concepts》第 512 页)。
+
+在这个例子中，如果只看第一句“通常，操作系统能有效弥补(应对)暂时性故障”，其实不大好理解，因为没有直接体现“使用什么来弥补什么”？翻译为“弥补”也不大通畅。需要结合后面一句来理解。operating system 是怎么弥补 transient failures 的呢？使用 “ read() retry” 来弥补 “read() failure”, 使用 “resend()” 来弥补 “send() error”。
+
+从技术上来说不难理解，其实就是“重试机制”，但是如果不理解词的意思，有时候就不能很好的理解作者想表达的意思。
+
 # conduit
 
 - **conduit: con-("with, together") + ducere("to lead")**

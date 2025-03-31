@@ -18,6 +18,16 @@ Generally, the execution of a set of steps that make up one activity.
 
 TBD。
 
+# transient
+
+- transitent: trans-("across, beyond") + ire("to go")
+
+adj. lasting for only a short time; temporary(短暂的，暂时性的)。Transient means literally "go across", which implies "pass through sth rather than staying"。
+
+- 示例
+
+Devices and I/O transfers can fail in many ways, either for transient reasons, as when a network becomes overloaded, or for “permanent” reasons, as when a disk controller becomes defective(《Operating System Concepts》第 512 页)。
+
 # trivial
 
 - trivial: ("three") + via("road")
