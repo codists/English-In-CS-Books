@@ -20,6 +20,20 @@ c/u. a natural connection(亲缘性), attraction(亲和力) or relationship(密�
 
 This is known as processor affinity—that is, a process has an affinity for the processor on which it is currently running(《Operating System Concepts》第 207 页)。
 
+# allotment
+
+- allot: ad-("to") + lot("portion(比例), share(份额)")
+
+vt. divide or distribute as by lots(分配)。
+
+- allotment
+
+c/u. the acting of allot.
+
+- 示例
+
+From a user’s perspective, a file is the smallest allotment of logical secondary storage; that is, data cannot be written to secondary storage unless they are within a file(《Operating System Concepts》第 530 页)。
+
 # approximation
 
 - approximate: ad-("to") + proximus("nearest")
