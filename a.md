@@ -1,3 +1,13 @@
+# acyclic
+
+- acyclic: a-("not") + cylic(参考 cycle)
+
+adj. involve a cycle(环状的)。
+
+- 示例
+
+An acyclic graph—that is, a graph with no cycles—allows directories to share subdirectories and files(《Operating System Concepts》第 547 页)。
+
 # adverse
 
 - adverse: ad-("toward, against") + vetere("to turn")
