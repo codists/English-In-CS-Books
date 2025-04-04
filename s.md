@@ -1,3 +1,13 @@
+# sacrifice
+
+- sacrifice: sacr-("sacred, holy, 神圣的") + -fice("to do, to make")
+
+vt. sacrifice literally means "to make sacred, to make holy", over time, it evolves to mean "give up sth valuable for a higher purpose(牺牲)"。
+
+- 示例
+
+For example, a temporary file system is used for fast storage and retrieval of nonpersistent files, while the default secondary storage file system (such as Linux ext4) sacrifices performance for reliability and features(《Operating System Concepts》第 563 页)。
+
 # semophore
 
 - semaphore: sema("sign, signal"，参考 semantic) + phoros("bearer") 
