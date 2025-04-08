@@ -61,6 +61,18 @@ An operating system acts as an intermediary between the user of a computer and t
 
 ​	(2)There are three levels of difficulty in this game: low, intermediate, and high.
 
+# intervention
+
+- intervene: inter-("between, among") + venire("to  come")
+
+vi. intervene literally means "to come between(to step in, mediate or interface in a situation), 干涉"。
+
+- intervention
+
+- 示例
+
+Consistency checking can require human intervention to resolve conflicts, and that is inconvenient if no human is available(《Operating System Concepts》第 587 页)。
+
 # inversion
 
 - invert: in-("in") + vertere("to turn")

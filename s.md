@@ -18,6 +18,16 @@ u. Semaphore literally means "mechanical apparatus for signaling to distant poin
 
 A semaphore S is an integer variable that, apart from initialization, is accessed only through two standard atomic operations: wait() and signal()(《Operating System Concepts》第 272 页)。
 
+# snapshot
+
+- snapshot: snap("to seize quickly, suddenly") + shot("an act of shooting")
+
+c. snapshot literally means "a quick shot with a gun"。in 1890, it was used to mean "photograph shot with a handheld camera", and figuratively, snapshot  is  used  of sth captured at a moment in time.
+
+- 示例
+
+The file system can then remove the old pointers and the old blocks and make them available for reuse. If the old pointers and blocks are kept, a snapshot is created; the snapshot is a view of the file system at a specific point in time (before any updates after that time were applied)(《Operating System Concepts》第 588 页)。
+
 # spawn
 
 - spawn: 来自于词根 expandere。

@@ -136,3 +136,24 @@ tools used to generate compilers。也称为compiler generator。在一些不严
 
  META II, TREEMETA, CWIC。
 
+# corruption
+
+- corrupt: com-("completely") + rup-("to break")
+
+vt. corrupt literally means "to completely break", over time, it evolves to mean "to change from good to bad"(腐败，损坏)。
+
+- 示例
+
+If the cached changes do not reach the storage device before a crash occurs, more corruption is possible(《Operating System Concepts》第 586 页)。
+
+# counter
+
+- counter: contra-("against, opposite")
+
+vt. in an opposite direction(反对，反驳)。
+
+- 示例
+
+Thus, output to the disk through the file system is often faster than is input for small transfers, counter to intuition(《Operating System Concepts》第 586 页)。
+
+count 和 counter 的词根竟然是不一样的。
