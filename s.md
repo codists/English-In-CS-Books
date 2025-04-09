@@ -18,6 +18,24 @@ u. Semaphore literally means "mechanical apparatus for signaling to distant poin
 
 A semaphore S is an integer variable that, apart from initialization, is accessed only through two standard atomic operations: wait() and signal()(《Operating System Concepts》第 272 页)。
 
+# slice vs slice up
+
+- slice
+
+vt. to cut with or as if with a knif(切)。
+
+示例：Could you slice a very thin piece of cake for me?
+
+- slice up
+
+slice up 偏向于 "to cut into multiple pieces" 之意。
+
+示例：As you have seen in the preceding chapters, a general-purpose computer system can have multiple storage devices, and those devices can be sliced up into partitions, which hold volumes, which in turn hold file systems(《Operating System Concepts》第 597 页)。
+
+- 某些场景下两者也可以交换使用
+
+示例：Slice the mushrooms thinly and fry in butter。
+
 # snapshot
 
 - snapshot: snap("to seize quickly, suddenly") + shot("an act of shooting")
