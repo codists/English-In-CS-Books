@@ -1,3 +1,15 @@
+# accommodate
+
+- accommodate: ad-("to") + com- + modus("measure, manner")
+
+vt. to provide what is needed。这个词在中文中不大好翻译。
+
+- 示例
+
+When an operating system accommodates multiple users, the issues of file sharing, file naming, and file protection become preeminent(《Operating System Concepts》第 603 页)。
+
+在上面这个例子中，accomodate 可以理解为“operating system support functionality of serving multiple users at the same time””，整句话的意思是“当操作系统支持多用户时，文件共享、文件命名和文件保护就会变得至关重要”。
+
 # acyclic
 
 - acyclic: a-("not") + cylic(参考 cycle)

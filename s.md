@@ -36,6 +36,8 @@ slice up 偏向于 "to cut into multiple pieces" 之意。
 
 示例：Slice the mushrooms thinly and fry in butter。
 
+示例：A disk can be sliced into multiple partitions, or a volume can span multiple partitions on multiple disks(《Operating System Concepts》第 601 页)。
+
 # snapshot
 
 - snapshot: snap("to seize quickly, suddenly") + shot("an act of shooting")
