@@ -72,6 +72,20 @@ reserve: to save sth for later use。
 
 preserve: maintain sth in its original manner/state。
 
+# resiliency
+
+- resilience: re-("back") + salire("to jump, leap")
+
+u. resilience literally means to jump back. the ability to recover from difficulty(恢复力)，主要用在英式英语中。
+
+- resiliency: resilience + -cy
+
+意思和 resilience 一样，主要用在美式英语中。
+
+- 示例
+
+Although some networks have built-in resiliency, including multiple paths between hosts, many do not. Any single failure can thus interrupt the flow of DFS commands.(《Operating System Concepts》第 608 页)。
+
 # resolve
 
 - resolve: re-("again") + solvere("to loosen, untie, release")
