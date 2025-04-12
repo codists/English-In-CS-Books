@@ -8,6 +8,16 @@ c/u. a situation in which a system stops working normally(故障)。
 
 An operating system that uses protected memory can guard against many kinds of hardware and application errors, so that a complete system failure is not the usual result of each minor mechanical malfunction(《Operating System Concepts》第 511 页)。
 
+# malicious
+
+- malicious: mal-("bad, unplesant")
+
+adj. intended to harm or upset(恶意的)。
+
+- 示例
+
+A program that acts in a clandestine or malicious manner, rather than simply performing its stated function, is called a Trojan horse(《Operating System Concepts》第 625 页)。
+
 # manifest
 
 - **定义**
@@ -44,15 +54,15 @@ In 1985, Stallman published the GNU Manifesto, which argues that all software sh
 
 # marshal
 
-1.marshaling
+- marshaling
 
 Marshalling or marshaling(US spelling) is the process of transforming the memory representation of an object into a data form suitable for storage or transmission, especially between different runtimes.
 
-2.marshaled
+- marshaled
 
 The CPython interpreter will evaluate and execute a code object fetched from either the marshaled .pyc file or the compiler(《Python Internals》第151页)。
 
-3.marshaling vs serialization
+- marshaling vs serialization
 
 这两个词我在阅读中经常会遇到，它们的区别是什么呢？我还没有搞清楚，现在先mark汇总，后续再做总结。
 
@@ -60,13 +70,13 @@ Marshaling is about getting parameters from here to there, while serialization i
 
 # maskable
 
-1.mask: masque("a covering for hidding or guarding the face")
+- mask: masque("a covering for hiding or guarding the face")
 
-2.maskable: mask + -able("capable of being")
+- maskable: mask + -able("capable of being")
 
 adj. capable of being masked(hidden or blocked)，可屏蔽的。
 
-3.nonmaskable: non- + maskable
+- nonmaskable: non- + maskable
 
 示例：Most CPUs have two interrupt request lines. One is the nonmaskable interrupt, which is reserved for events such as unrecoverable memory errors. The second interrupt line is maskable: it can be turned off by the CPU before the execution of critical instruction sequences that must not be interrupted(《Operating System Concepts》第 10 页)。
 
@@ -92,31 +102,31 @@ u/prep. among(在......之中)。
 
 示例：
 
-1.In the sequence a, b, c, d, e, the middle letter is c.
+1. In the sequence a, b, c, d, e, the middle letter is c.
 
 在上面这个例子中，因为 c 在中间位置，所以用 middle。
 
-2.We never gave up hope in the midst of our troubles(我们在困境中从未放弃希望)。
+2. We never gave up hope in the midst of our troubles(我们在困境中从未放弃希望)。
 
 在上面这个例子中，表示的是 among, 所以用 midst 更合适。
 
-3.If the process was in the midst of updating a file, terminating it may leave that file in an incorrect state()。
+3. If the process was in the midst of updating a file, terminating it may leave that file in an incorrect state()。
 
 # moderate
 
-- moderate: moderatus("within bounds")
+- moderate:  moderatus("within bounds")
 
 adj. neither small nor large(中等的)。
 
 - 示例
 
-TBD
+A family of *moderate* income.
 
 # monotonic
 
 -  monotonic: mono-("one, single, along") + tonic("relating to tone")
 
-adj. 1.monotonic literally means speaking in such a way that the sounds stays on the same note without going higher or lower(单调的，这里主要指声音方面的)。2.varying in such a way that it either never decreases or never increases.
+adj. 1. monotonic literally means speaking in such a way that the sounds stays on the same note without going higher or lower(单调的，这里主要指声音方面的)。2. varying in such a way that it either never decreases or never increases.
 
 - 示例
 
@@ -124,9 +134,11 @@ The rate-monotonic scheduling algorithm schedules periodic tasks using a static 
 
 # myriad
 
-1.myriad: myrias("ten thousand")
+- myriad: myrias("ten thousand")
 
-c/adj. Originally, myriad refered to the number ten thousand(10,000), but over time, it came to mean a very larege or countless number of sth.
+c/adj. Originally, myriad referred to the number ten thousand(10,000), but over time, it came to mean a very large or countless number of sth.
 
-示例：By now, you can probably see that the term operating system covers many roles and functions. That is the case, at least in part, because of the myriad designs and uses of computers(《Operating System Concepts》第5页)。
+- 示例
+
+By now, you can probably see that the term operating system covers many roles and functions. That is the case, at least in part, because of the myriad designs and uses of computers(《Operating System Concepts》第5页)。
 

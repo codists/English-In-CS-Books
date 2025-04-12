@@ -18,6 +18,20 @@ vt. involve sth as a necessary part(使必要，牵涉)。
 
 For HDDs, meeting this responsibility entails minimizing access time and maximizing data transfer bandwidth(《Operating System Concepts》第 457 页)。
 
+# escalate
+
+- escalate: e-(为了发音方便) + scala("ladder")
+
+vi/vt. Escalate originally means "to climb using a ladder", overtime, it evolves to mean "to increase".
+
+- escalator
+
+c. a moving staircase consisting of an endlessly circulating belt of steps driven by a motor, conveying people between the floors of a public building(自动扶梯)。
+
+- 示例
+
+If the program is executed in another domain, it can escalate privileges(《Operating System Concepts》第 625 页)。
+
 # exclusive
 
 - exclusive:ex-("out, away") + claudere("to close, to shout out")
