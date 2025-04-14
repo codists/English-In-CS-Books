@@ -14,7 +14,8 @@ Trying to identify when to use which tool, however, can be a daunting challenge 
 
 # de-(词根)
 
-completely。
+- completely
+- away, off
 
 # dedicated
 
@@ -23,6 +24,22 @@ completely。
 adj. Dedicated describes sth or sb that is committed to or devoted to a particular purpose(专用的)。
 
 示例：In Chapter 6, you learned that Kubernetes uses a dedicated Service object to provide network connectivity to apps running in Pods.
+
+# defense
+
+- defend: de-("away, off") + fendere("to strike, hit, push")
+
+vi/vt. defend literally means to push away an attack(to protect from harm，保护，防卫，捍卫).
+
+- defense
+
+u. the act of pretect sth against attack。需要注意用法：defense of, defense against。
+
+- 示例
+
+He published an essay in defense of the freedom of the press(新闻)。
+
+There are many defenses against computer attacks, running the gamut from methodology to technology(《Operating System Concepts》第 637 页)。
 
 # disastrous
 

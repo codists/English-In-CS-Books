@@ -80,6 +80,16 @@ adj. capable of being masked(hidden or blocked)，可屏蔽的。
 
 示例：Most CPUs have two interrupt request lines. One is the nonmaskable interrupt, which is reserved for events such as unrecoverable memory errors. The second interrupt line is maskable: it can be turned off by the CPU before the execution of critical instruction sequences that must not be interrupted(《Operating System Concepts》第 10 页)。
 
+# masquerade
+
+-  masquerade: maschera("mask") + -ade(suffix that indicating an action or process)
+
+c/u. behavior that is intended to prevent truth from being known(掩饰)；vi. to pretend to be(伪装)。
+
+- 示例
+
+Alternatively, an attacker can take a more active role, either masquerading as one of the parties (referred to as spoofing), or becoming a fully active man-in-the-middle, intercepting and possibly modifying transactions between two peers(《Operating System Concepts》第 636 页)。
+
 # median
 
 c. the value that is the middle one in a set of values arranged in order of size(中位数，中值)。示例：1.假设有一组数 1, 3, 3, 6, 7, 8, 9， 那么 median 是6。2.假设有一组数1, 2, 3, 4, 5, 6, 8, 9，那么 median 是(4+5)/2=4.5。
@@ -136,7 +146,7 @@ The rate-monotonic scheduling algorithm schedules periodic tasks using a static 
 
 - myriad: myrias("ten thousand")
 
-c/adj. Originally, myriad referred to the number ten thousand(10,000), but over time, it came to mean a very large or countless number of sth.
+c/adj. Originally, myriad referred to the number ten thousand(10,000), but over time, it came to mean a very large or countless number of sth(无数的)。
 
 - 示例
 

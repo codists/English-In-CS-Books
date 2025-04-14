@@ -1,3 +1,9 @@
+# ask
+
+- be asking for it/trouble(自找麻烦)
+
+However, for applications where security matters, we are asking for trouble if we assume that the source or destination address of a packet reliably determines who sent or received that packet(《Operating System Concepts》第 638 页)。
+
 # accommodate
 
 - accommodate: ad-("to") + com- + modus("measure, manner")
