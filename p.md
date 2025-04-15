@@ -30,6 +30,10 @@ c/u. the distinctive, unusual, or unique feature or characteristic of sth(特性
 
 示例：Only the device driver knows the peculiarities of the specific device to which it is assigned(《Operating System Concepts》第 32 页)。
 
+# per-(词根)
+
+- through
+
 # perceive
 
 - perceive: per-("thoroughly, completely, entirely") + capere("to take, to grasp")
@@ -47,6 +51,20 @@ vt. be come aware of sth。
 2.His mouth fell open as he perceived the truth(当他意识到真相时，他的嘴张得大大的)。
 
 之前一直不能很好的理解 perceive 的意思，大概是因为对 aware/awareness 的理解一直局限于“意识”，其实也可以扩展为为“对......的认识，感知，理解，明白”。
+
+# pervasive
+
+- pervade: per-("forward", hence "through") + vadere("to go")
+
+vt. pervade literally means "to go through", spread through, diffuse (itself) throughout(弥漫)。
+
+- pervasive
+
+adj. present in everywhere(普遍，普及)。
+
+- 示例
+
+As computer systems have become more sophisticated and pervasive in their applications, the need to protect their integrity has also grown(《Operating System Concepts》第 667 页)。
 
 # pessimistic
 

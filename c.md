@@ -92,6 +92,16 @@ vt. give (sb) sth, like money, in recognition of loss, suffering or injure(补�
 
 从技术上来说不难理解，其实就是“重试机制”，但是如果不理解词的意思，有时候就不能很好的理解作者想表达的意思。
 
+# conceive
+
+- conceive: con-(intensive prefix, 强调作用) + capere("to take")
+
+vi/vt. conceive literally means "to take in", to image。
+
+- 示例
+
+Protection was originally conceived as an adjunct to multiprogramming operating systems, so that untrustworthy users might safely share a common logical name space, such as a directory of files, or a common physical name space, such as memory(《Operating System Concepts》第 667 页)。
+
 # conduit
 
 - **conduit: con-("with, together") + ducere("to lead")**
