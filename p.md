@@ -52,6 +52,20 @@ vt. be come aware of sth。
 
 之前一直不能很好的理解 perceive 的意思，大概是因为对 aware/awareness 的理解一直局限于“意识”，其实也可以扩展为为“对......的认识，感知，理解，明白”。
 
+# permeate
+
+- permeate: per-("forward", hence "through") + *mei-("to go, move")
+
+vi/vt. permeate literally means go through. to spread through and be present in every part of it(渗透)。
+
+- 示例
+
+Virtualization permeates all aspects of computing(《Operating System Concepts》第 700 页)。
+
+- permeate vs pervade
+
+暂时没看到明显的区分标准，TBD。
+
 # pervasive
 
 - pervade: per-("forward", hence "through") + vadere("to go")

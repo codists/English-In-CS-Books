@@ -1,3 +1,13 @@
+# illusion
+
+- illusion:in-("in") + ludere("to play")
+
+c/u. a false perception(感知，感觉) by the senses(错觉，幻觉)。
+
+- 示例
+
+The fundamental idea behind a virtual machine is to abstract the hardware of a single computer (the CPU, memory, disk drives, network interface cards, and so forth) into several different execution environments, thereby creating the illusion that each separate environment is running on its own private computer(《Operating System Concepts》第 701 页)。
+
 # immediate caller(直接调用者)
 
 - immediate: im-("not, opposite of") + mediate("in the middle")
@@ -26,6 +36,12 @@ Generators have a major limitation: they can yield values only to their immediat
 在上面这个示例中，为什么用“imperatively”呢？因为前面是使用命令(kubectl scale)进行操作的。
 
 2.Imperative language(procedual language): Language for implementing algorithms that are state-based (e.g., C, C++, Java, and C#).
+
+# in-(词根)
+
+in- 和某些词组合的时候为了发音方便 n 会变化。示例：
+
+- illusion: in- + ludere
 
 # indefinitely
 
