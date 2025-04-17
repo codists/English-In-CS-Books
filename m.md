@@ -122,6 +122,12 @@ u/prep. among(在......之中)。
 
 3. If the process was in the midst of updating a file, terminating it may leave that file in an incorrect state()。
 
+# million
+
+- million: mille-("thousand") + -one(augmentative suffix, "large, great")
+
+c. million literally means "a large thousand", "a thousand thousand"(i.e. 1000x1000=1000000, 一百万)。
+
 # moderate
 
 - moderate:  moderatus("within bounds")

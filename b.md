@@ -48,6 +48,12 @@ The benchmark suite is the tool to use when comparing the complete performance o
 
 如 Python 开发中使用的 pyperformance。
 
+# billion
+
+- billion: bi-("two") + million
+
+c. 这涉及到长级差制(long scale)和短级差制(short scale)，现在主要使用短级差制。在长级差制中，billion literally means "two million/a million million"(10^6 x 10^6 = 10^12， 万亿)，在短级差制，因为是以 1000 为单位累进，billion 就变成了 10^9(十亿)，这样就出现了单词词根与实际值的分离，以 10^3 去记忆。
+
 # bootstrap
 
 - bootstrap: boot("shoe that covers the whole foot and the lower part of the leg, 靴子") + strap("a narrow piece of leather, 带子")
@@ -72,8 +78,22 @@ adj. describing sth that is limited or has defined boundaries(有明确边界)�
 
 # breach
 
-1.breach: breche("break")
+- breach: breche("break")
 
 c. act of breaking or violating sth, such as rule, agreement, or boundary.
 
 示例：Many homes use firewall to protect their networks from security breaches(《Operating System Concepts》第 41 页)。
+
+# bring
+
+- bring along/bring sb/sth along
+
+(1)释义
+
+to take sb/sth with you
+
+(2)示例
+
+Can I bring a friend along to the party?
+
+However, it has also brought along a threat of disruption, especially for large corporations. 

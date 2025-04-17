@@ -28,6 +28,12 @@ adj. lasting for only a short time; temporary(短暂的，暂时性的)。Transi
 
 Devices and I/O transfers can fail in many ways, either for transient reasons, as when a network becomes overloaded, or for “permanent” reasons, as when a disk controller becomes defective(《Operating System Concepts》第 512 页)。
 
+# trillion
+
+- trillion: tri-("three") + million
+
+c. 这涉及到长级差制(long scale)和短级差制(short scale)，现在主要使用短级差制。在长级差制中， 即 the number 1,000,000,000,000(10^18，十万亿)。在短级差制，因为是以 1000 为单位累进，billion 就变成了 10^12(万亿)，这样就出现了单词词根与实际值的分离，以 10^3 去记忆：(10^3， thousand)x10^(3+1)。
+
 # trivial
 
 - trivial: ("three") + via("road")

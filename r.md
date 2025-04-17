@@ -56,6 +56,16 @@ reference implementation means the implementation that serves as a standard, gui
 
 其实 reference implementation 的定义比较模糊，并不是很绝对。
 
+# relevant
+
+- relevant: re-("again") + levare("to lift up, lighten")
+
+adj. relevant literally means "to lift up again", over time, it evolve to mean "having significant bearing on the matter(有重大作用的)"
+
+- 示例
+
+Distributed systems are more relevant than ever, and you have almost certainly used some sort of distributed service(《Operating System Concepts》第 733 页)。
+
 # reserve
 
 - reserve: re-("back") + servare("to keep")
