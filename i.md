@@ -55,6 +55,22 @@ adv. for a period of time with no fixed end(不确定地，无限期地)。
 
 示例：A process waiting indefinitely under the circumstances just described is an example of a “liveness failure.”(《Operating System Concepts》第 283 页)。
 
+# interconnect
+
+- interconnect: inter-("between, among") + connect
+
+vi/vt. connect with each other.
+
+- 示例
+
+To completely understand the roles and types of distributed systems in use today, we need to understand the networks that interconnect them(《Operating System Concepts》第 735 页)。
+
+- connect vs interconnect
+
+1. connect is used for two object.
+
+2. interconnect is used for multiple objects.
+
 # intermediary
 
 - intermediary: inter-("between, among") + medius("middle")

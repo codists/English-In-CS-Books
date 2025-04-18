@@ -1,3 +1,7 @@
+# e-(词根)
+
+- out
+
 # eligible
 
 - eligible: e-("out, from") + legere("to choose"), election。
@@ -7,6 +11,16 @@ adj. able to choosen(有资格的)。
 - 示例
 
 In this section, we describe the steps in this procedure, from compiling a program to placing it in memory, where it becomes eligible to run on an available CPU core(《Operating System Concepts》第 75 页)。
+
+# emerge
+
+- emerge: e-("out") + mergere("to dip, sink")
+
+vi. emerge literally means "to rise out from liquid", appear(出现)。
+
+- 示例
+
+Local-area networks emerged in the early 1970s as a substitute for large mainframe computer systems(《Operating System Concepts》第 736 页)。
 
 # entail
 

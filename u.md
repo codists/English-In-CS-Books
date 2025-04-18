@@ -1,3 +1,17 @@
+# ubiquitous
+
+- ubiquity: ubi-("where") + -quity("a suffix indicating state or quality")
+
+u.the fact of being everywhere。
+
+- ubiquitous: ubiquity + -ous
+
+adj. being everywhere("无处不在")。
+
+- 示例
+
+WiFi is now ubiquitous and either supplements traditional Ethernet networks or exists by itself(《Operating System Concepts》第 737 页)。
+
 # unleash
 
 - leash：laxus("loose", 参考 lax)
