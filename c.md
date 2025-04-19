@@ -1,3 +1,17 @@
+# canonical
+
+- canon
+
+c. a general principle by which sth is judge(准则，标准)。
+
+- canonical
+
+ad. according a rule(遵循标准的，规范的)。
+
+- 示例
+
+"In fact, in the early days of the ARPANET there was a canonical host file that was copied to every system periodically(《Operating System Concepts》第 739 页)。
+
 # capability
 
 - capable: capere("to grasp, take, catch")

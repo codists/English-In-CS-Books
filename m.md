@@ -90,12 +90,6 @@ c/u. behavior that is intended to prevent truth from being known(掩饰)；vi. t
 
 Alternatively, an attacker can take a more active role, either masquerading as one of the parties (referred to as spoofing), or becoming a fully active man-in-the-middle, intercepting and possibly modifying transactions between two peers(《Operating System Concepts》第 636 页)。
 
-# median
-
-c. the value that is the middle one in a set of values arranged in order of size(中位数，中值)。示例：1.假设有一组数 1, 3, 3, 6, 7, 8, 9， 那么 median 是6。2.假设有一组数1, 2, 3, 4, 5, 6, 8, 9，那么 median 是(4+5)/2=4.5。
-
-A benchmark will produce an average/median runtime of a fixed code snippet so that you can compare multiple versions of Python runtime（《CPython Internals》第353页。）
-
 # middle vs midst
 
 - middle
@@ -121,6 +115,16 @@ u/prep. among(在......之中)。
 在上面这个例子中，表示的是 among, 所以用 midst 更合适。
 
 3. If the process was in the midst of updating a file, terminating it may leave that file in an incorrect state()。
+
+# median
+
+c. the value that is the middle one in a set of values arranged in order of size(中位数，中值)。示例：1.假设有一组数 1, 3, 3, 6, 7, 8, 9， 那么 median 是6。2.假设有一组数1, 2, 3, 4, 5, 6, 8, 9，那么 median 是(4+5)/2=4.5。
+
+A benchmark will produce an average/median runtime of a fixed code snippet so that you can compare multiple versions of Python runtime（《CPython Internals》第353页。）
+
+# medium & media
+
+media 是 medium 的复数形式，意思是“介质，媒介”。
 
 # million
 

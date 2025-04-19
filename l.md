@@ -18,6 +18,18 @@ adj. remaining, not used up(剩下的)； c. sth left over(残存物，遗留物
 
 Which is the leftover piece—the one on the top or the one on the bottom?(《Operating System Concepts》第 359 页)。
 
+# legacy
+
+- legacy: legare("a body of persons sent on a mission(被派去执行任务的一群人)")
+
+c. over time, the sense of "being sent" evolved into "sth handed down"， especially in legal or contexts。sth that remains from an earlier time(遗产，遗留问题)。
+
+每次看到 legacy 这个单词总是想到"legal"，然后将其理解成 legal 的名词形式——“”合法性”，其实legal 的名词形式是 legality。当然，至所以出现这样的问题是因为我不知道 legality这个词然后又不查，这里梳理下，纠正这种错误的习惯。
+
+- 示例
+
+This legacy is still showing itself today, as adding security to existing infrastructure is proving to be difficult and complex(《Operating System Concepts》第 744 页)。
+
 # lifespan
 
 - lifespan: life + span("the period of time that sth exists or happens")
