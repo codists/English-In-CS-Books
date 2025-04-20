@@ -1,3 +1,55 @@
+# 传输: transfer, transport, transmit
+
+这几个词曾一度让我很头痛，**因为这些词都被翻译成了”传输“，从中文的角度来说，不是那么好理解。所以不考虑字母顺序专门放到了第一位。
+
+beyond: move past something(超过，超越)，extend past limit(超出限制)。 
+
+across:  move from one side to another(从一边到另一边，穿过，跨过)。
+
+## transfer
+
+- transfer: trans-("beyond, across") + ferre("to carry")
+
+vi/vt. transfer literally means "carry across". convey something from one person, place or situation to another(强调从一个地方转移到另一个地方，强调"convey, change")。
+
+- 示例
+
+1. File Transfer Protocol(FTP，文件传输协议)。
+2. We *transferred* the baby's car seat to the other car(我们将宝宝椅挪到另一辆车上了)。
+
+## transport & transportation
+
+- transport: trans-("beyond, across") + portare("to carry")
+
+vt. transport literally means "carry across". to carry physical items or people(强调运送实体物品或者人，强调"carry, process")。
+
+- transport/transportation
+
+u. the act of transport(英式英语中，transport 的名词形式是 transport， 即动词和名词是同一个词；在美式英语中， transport的名词形式是 transportation); vehicles, such as buses, trains, aircraft, etc(交通工具)。
+
+- 示例
+
+1. transport layer(OSI七层通信模型中的“传输层”)。
+
+transport layer 为什么使用 transport 呢？因为想表达"The *transport* layer is the vehicle for moving data"。 
+
+2. The movie transports us to a world of stunning beauty(这部电影把我们带入了一个美丽绝伦的世界)。
+
+## transmit & transmission
+
+- transmit: trans-("beyond, across") + mittere(“to send”)
+
+vi/vt. transmit literally means "send across". transmit 和 transfer，transport 完全是不一样的意思，强调"send, spread"。
+
+- transmission
+
+c/u. the act of transmit(transmission 是 transmit 的名词形式)。
+
+- 示例
+
+1. transmission control protocol(TCP，传输控制协议)。
+2. transmitting and receiving radio signals(发送和接受无线型号)。
+
 # time
 
 - most of the time
