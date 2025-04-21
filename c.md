@@ -72,6 +72,16 @@ b.Multiprocessor systems
 
 c.Distributed systems
 
+# coherent
+
+- coherent：co-("together") + haerere("to stick")
+
+adj. logically connected and having the quality of cohering(连贯统一的)。
+
+- 示例
+
+NFS provides a means to attach remote directories to local directories, thus giving the appearance of a coherent directory tree(《Operating System Concepts》第 763 页)。
+
 # commodity
 
 - commodity:  com-("together, with") + modus("measure, manner"，*med- "take appropriate measures")
