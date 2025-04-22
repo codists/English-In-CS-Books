@@ -66,6 +66,20 @@ adj. relevant literally means "to lift up again", over time, it evolve to mean "
 
 Distributed systems are more relevant than ever, and you have almost certainly used some sort of distributed service(《Operating System Concepts》第 733 页)。
 
+# replication
+
+- replicate：re-("again") + plicare("to fold")
+
+vi/vt. replicate literally means "to fold back", overtime, it evolves to mean "to make or do sth again(复现)"。
+
+- replication
+
+c/u. the act of making or doing sth again。
+
+- 示例
+
+To enhance the availability of the crucial mapping information, we can use replication, local caching, or both(《Operating System Concepts》第 764 页)。
+
 # reserve
 
 - reserve: re-("back") + servare("to keep")
