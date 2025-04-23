@@ -66,3 +66,17 @@ vt. Historically, "discard" meant "remove a card from one's hand" in a card game
 he first issue concerns the amount of time required to create the thread, together with the fact that the thread will be discarded once it has completed its work(《Operating System Concepts》第 177 页)。
 
 在这个例子中， “discard the thread” 意思是 "terminate the thread, destroy the thread"。
+
+# drastically
+
+(1)drastic
+
+adj. likely to have a strong effect(极端的，猛烈的)。
+
+(2)drastically
+
+adv. extremely, very。
+
+(3)示例
+
+With Windows 10, the student can examine a modern operating system whose design and implementation are drastically different from those of UNIX(《Operating System Concepts》第 774 页)。
