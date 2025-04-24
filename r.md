@@ -66,6 +66,20 @@ adj. relevant literally means "to lift up again", over time, it evolve to mean "
 
 Distributed systems are more relevant than ever, and you have almost certainly used some sort of distributed service(《Operating System Concepts》第 733 页)。
 
+#  remedial
+
+- remedy: re-("again") + mederi("to heal")
+
+vt. to do sth to correct or improve sth that is wrong(纠正，补救)。
+
+- remedial
+
+adj. intended as a remedy(用于纠正的，用于补救的)。
+
+- 示例
+
+Updates for the stable kernels are intended only as remedial versions, whereas the development kernels may include newer and relatively untested functionality(《Operating System Concepts》第 777 页)。
+
 # replication
 
 - replicate：re-("again") + plicare("to fold")
