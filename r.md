@@ -94,6 +94,16 @@ c/u. the act of making or doing sth again。
 
 To enhance the availability of the crucial mapping information, we can use replication, local caching, or both(《Operating System Concepts》第 764 页)。
 
+# resemble
+
+- resemble: re-("again") + similis("similar")
+
+vt. be similar to sth(与......类似)。
+
+- 示例
+
+In its overall design, Linux resembles other traditional, nonmicrokernel UNIX implementations.(《Operating System Concepts》第 780 页)。
+
 # reserve
 
 - reserve: re-("back") + servare("to keep")
