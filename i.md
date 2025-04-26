@@ -37,6 +37,20 @@ Generators have a major limitation: they can yield values only to their immediat
 
 2.Imperative language(procedual language): Language for implementing algorithms that are state-based (e.g., C, C++, Java, and C#).
 
+# impose
+
+- impose: in-("in") + pose("to put, to place")
+
+vt. impose literally means to "to forcefully place sth on sth else"; force sth to be accepted(强制实行，施加)。
+
+注：一般来说，虽然 impose 暗含 forcefully 之意，但翻译的时候， forcefully 可不用译出来。
+
+- 示例
+
+The original implementation of SMP imposed the restriction that only one processor at a time could be executing kernel code.(《Operating System Concepts》第 794 页)。
+
+上面这句话的意思是：SMP的最初实现施加了一个限制：同一时间只能有一个处理器执行内核代码。
+
 # in-(词根)
 
 in- 和某些词组合的时候为了发音方便 n 会变化。示例：
