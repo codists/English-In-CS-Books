@@ -69,14 +69,24 @@ he first issue concerns the amount of time required to create the thread, togeth
 
 # drastically
 
-(1)drastic
+- drastic
 
 adj. likely to have a strong effect(极端的，猛烈的)。
 
-(2)drastically
+- drastically
 
 adv. extremely, very。
 
-(3)示例
+- 示例
 
 With Windows 10, the student can examine a modern operating system whose design and implementation are drastically different from those of UNIX(《Operating System Concepts》第 774 页)。
+
+# drawback
+
+- drawback: draw("pull") + back("opposite of forward")
+
+c. drawback literally means sth that pulls back--a disvantage or obstacle. a disvantage or the negative part of a situation(缺点，不利因素)。
+
+- 示例
+
+Historically, UNIX implementations of this mechanism have had several drawbacks(《Operating System Concepts》第 816 页)。

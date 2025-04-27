@@ -12,6 +12,20 @@ adj. being everywhere("无处不在")。
 
 WiFi is now ubiquitous and either supplements traditional Ethernet networks or exists by itself(《Operating System Concepts》第 737 页)。
 
+# uni-("词根")
+
+- having one only, single(一个，单个)
+
+# unidirectional
+
+- unidirectional: uni-("one") + directional
+
+adj. moving or operating in a single direction(单向的)。
+
+- 示例
+
+Traditionally, these requests have been scheduled according to a unidirectional-elevator (C-SCAN) algorithm that exploits the order in which requests are inserted in and removed from the lists(《Operating System Concepts》第 811 页)。
+
 # unleash
 
 - leash：laxus("loose", 参考 lax)
