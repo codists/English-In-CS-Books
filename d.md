@@ -19,7 +19,7 @@ Trying to identify when to use which tool, however, can be a daunting challenge 
 
 # dedicated
 
-(1)dedicated: de-("complete, thoroughly") + dicare("to proclaim, to delcare")
+- dedicated: de-("complete, thoroughly") + dicare("to proclaim, to delcare")
 
 adj. Dedicated describes sth or sb that is committed to or devoted to a particular purpose(专用的)。
 
@@ -40,6 +40,40 @@ u. the act of pretect sth against attack。需要注意用法：defense of, defe
 He published an essay in defense of the freedom of the press(新闻)。
 
 There are many defenses against computer attacks, running the gamut from methodology to technology(《Operating System Concepts》第 637 页)。
+
+# dis-(词根)
+
+-  not, opposite of(表示否定的或者相反的)
+
+示例：dishonest(不诚实的)，disallow(不允许)。
+
+- opart, away(表示分开)
+
+示例：discard。
+
+# discretionary
+
+- discern: dis-("apart, away") + cernere("distinguish, separate, sift",参考 *krei-"to seive(过滤，筛)", hence "distinguish")
+
+vt. discern literally means to separate by distinguishing. to recognize sth that is not clear(辨别出)。
+
+- discrete: dis-("apart, away") + cernere("distinguish, separate, sift",参考 *krei-"to seive(过滤，筛)", hence "distinguish")
+
+adj. individually separate and distinct(独立的，各自的).
+
+- discretion
+
+u. the quality of behaving in such a way as to avoid causing offence(慎重)。
+
+- discretionary: discretion + -ary
+
+adj. available for use at the discretion of the user(可自行决定的，自主的)。
+
+- 示例
+
+Windows traditionally based security on discretionary access controls. System objects, including files, registry keys, and kernel synchronization objects, are protected by access-control lists (ACLs) (see Section 13.4.2).(《Operating System Concepts》第 826 页)。
+
+上面这句话的意思是：Windows 传统上将安全性建立在自主访问控制（Discretionary Access Control, DAC）基础上。系统对象（包括文件、注册表键和内核同步对象）都通过访问控制列表（ACLs）进行保护（参见第13.4.2节）。
 
 # disastrous
 

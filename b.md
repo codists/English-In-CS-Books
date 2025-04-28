@@ -76,6 +76,16 @@ bootstrap 本意是指“鞋襻”，“To pull (oneself) up by (one's) bootstra
 
 adj. describing sth that is limited or has defined boundaries(有明确边界)。bind的过去式是bound, bound的过去式是 bounded。
 
+# bounty
+
+- bounty: bonus("good") + -ty
+
+c. money paid as a reward(奖金，赏金)。
+
+- 示例
+
+Additionally, bug bounty participation programs allow external researchers and security professionals to identify, and submit, previously unknown security issues in Windows(《Operating System Concepts》第 826 页)。
+
 # breach
 
 - breach: breche("break")
