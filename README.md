@@ -14,6 +14,13 @@
 
 对于一些还不知道怎么分类的内容(如：语法，阅读经验总结)，放到“其它”目录下。
 
+# 书
+
+下面是一些有 glossary 的书，推荐阅读。
+
+1. Abraham Silberschatz，Peter Baer Galvin，Greg Gagne《Operating System Concepts》（操作系统概念）：https://book.douban.com/subject/30272539/
+2. Patrick Juola，《Principles of computer organization and Assembly language》（《计算机组成及汇编语言原理》）：https://book.douban.com/subject/3069889/
+
 # 其它
 
 由于本人水平有限，难免有纰漏，恳请大家提 PRS 指正。
