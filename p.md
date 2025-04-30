@@ -108,6 +108,12 @@ c. large, shallow dish for holding food(大浅盘)。
 
 Conceptually, HDDs are relatively simple (Figure 11.1). Each disk platter has a flat circular shape, like a CD(《Operating System Concepts》第 450 页)。
 
+# pre-(词根)
+
+- before
+
+个人觉得在一个单词里面， pre 词根的含义占比不大，更重要的时候后面部分。
+
 # precaution
 
 - caution: *keu-("to see, observe")
