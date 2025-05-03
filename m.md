@@ -146,7 +146,9 @@ A family of *moderate* income.
 
 -  monotonic: mono-("one, single, along") + tonic("relating to tone")
 
-adj. 1. monotonic literally means speaking in such a way that the sounds stays on the same note without going higher or lower(单调的，这里主要指声音方面的)。2. varying in such a way that it either never decreases or never increases.
+adj. 1. monotonic literally means speaking in such a way that the sounds stays on the same note without going higher or lower(单调的，这里主要指声音方面的)。2. varying in such a way that it either never decreases or never increases. 3. only ever increasing, or only ever getting less(数学上的单调递增或者单调递减的那个“递减”)。
+
+- monotonically
 
 - 示例
 
