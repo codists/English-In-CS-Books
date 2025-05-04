@@ -48,6 +48,20 @@ c/u. a natural connection(亲缘性), attraction(亲和力) or relationship(密�
 
 This is known as processor affinity—that is, a process has an affinity for the processor on which it is currently running(《Operating System Concepts》第 207 页)。
 
+# al-
+
+- suffix forming adjectives from nouns, "of, like, related to, pertaining to"。
+
+示例：
+
+1. nature > natural(relating to nature, 天然的) > natural disaster(自然灾害)
+
+- suffix forming nouns of action from verbs. "act of xxx"
+
+示例：
+
+1. dispose(vt. get rid of sth) > disposal(n. the act of get rid of sth)。
+
 # allotment
 
 - allot: ad-("to") + lot("portion(比例), share(份额)")
