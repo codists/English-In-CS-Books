@@ -39,3 +39,12 @@ c. 也写作 life-span, the length of time for which a thing exists(寿命)。
 - 示例
 
 One way to improve the lifespan and performance of NVM devices over time is to have the file system inform the device when files are deleted, so that the device can erase the blocks those files were stored on(《Operating System Concepts》第 462 页)。
+
+# -logy
+
+- study of
+
+示例：
+
+1. geology: geo-("earth") + -ology, the study of earth, 地质学。
+2. psychology: psyche(“spirit, mind”) + -ology, the study of mind, 心理学。

@@ -54,6 +54,22 @@ The benchmark suite is the tool to use when comparing the complete performance o
 
 c. 这涉及到长级差制(long scale)和短级差制(short scale)，现在主要使用短级差制。在长级差制中，billion literally means "two million/a million million"(10^6 x 10^6 = 10^12， 万亿)，在短级差制，因为是以 1000 为单位累进，billion 就变成了 10^9(十亿)，这样就出现了单词词根与实际值的分离，以 10^3 去记忆。
 
+# biological
+
+- biology: bio-("to live") + -logy("study of")
+
+u. the study of living organisms(生物体)，生物学。
+
+- biological: biology + -ical
+
+adj. relating to biology or living organisms, 与生物学有关的，与生物有关的。
+
+- 示例
+
+Dynamic programming, as in Chapter 14, is an important technique for solving several of these biological problems, particularly ones that involve determining similarity between DNA sequences(《《算法导论(第4版)》》第 7 页)。
+
+上面这句话可翻译为“如第14章所述，动态规划是一种重要的技术，可用于解决多种生物学问题，尤其是涉及确定 DNA 序列相似性的问题”。 注：biological problems——如果翻译成“与生物学有关的问题”则更好理解；如果翻译成“生物学问题”，则更简洁。
+
 # bootstrap
 
 - bootstrap: boot("shoe that covers the whole foot and the lower part of the leg, 靴子") + strap("a narrow piece of leather, 带子")
