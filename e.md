@@ -46,6 +46,16 @@ c. a moving staircase consisting of an endlessly circulating belt of steps drive
 
 If the program is executed in another domain, it can escalate privileges(《Operating System Concepts》第 625 页)。
 
+# ex-
+
+- out
+
+# exhaustive
+
+exhaust: ex-("out") + 
+
+exhaustive: exhaust + -ive()
+
 # exclusive
 
 - exclusive:ex-("out, away") + claudere("to close, to shout out")

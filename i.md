@@ -145,3 +145,6 @@ If you invert the fractions: 2/1, 4/3.
 
 If you reverse the fractions: 3/4, 1/2.
 
+# -ive
+
+word-forming element making adjectives from verbs, meaning "pertaining to, tending to; doing, serving to do,"。
