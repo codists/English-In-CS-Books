@@ -21,6 +21,10 @@ optimum也可以做形容词，意思和 optimal 一样，意为"best"。看到�
 
 The SJF scheduling algorithm is provably optimal, in that it gives the minimum average waiting time for a given set of processes(《Operating System Concepts》第 207 页)。
 
+# order statistics(顺序统计量)
+
+If the random variables x<sub>1</sub>, ...,  x<sub>n</sub> are arranged in order of magnitude and then written as X<sub>(1)</sub> ≤ ... ≤ X<sub>(n)</sub>, we call X<sub>(i)</sub> the  order statistic (i = 1, ..., n).
+
 # overhead
 
 - overhead: over-("above") + head(“top part, uppermost section”)
