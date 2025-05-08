@@ -128,6 +128,16 @@ c. an action taken in advance to prevent sth unpleasant, dangerous or inconvinie
 
 Dynamic linking can help to ease this restriction, but it generally requires special precautions and extra work by the programmer(《Operating System Concepts》第 390 页)。
 
+# precious
+
+- precious: pretium("value, worth, price"， price 也是来自于 pretium)
+
+adj. of great value(宝贵，珍贵)。
+
+- 示例
+
+Computing time is therefore a bounded resource, which makes it precious(《《算法导论(第4版)》》第 12 页)
+
 # preempt
 
 - preemption: pre-("before") + emption(*em-, "to take, to buy")
@@ -139,6 +149,18 @@ Dynamic linking can help to ease this restriction, but it generally requires spe
 也写作pre-empt。vt. to prevent sth from happening by taking action first, to take action before others（抢占，先占）。
 
 示例：The interrupt mechanism also implements a system of interrupt priority levels. These levels enable the CPU to defer the handling of low-priority interrupts without masking all interrupts and makes it possible for a high-priority interrupt to preempt the execution of a low-priority interrupt(《Operating System Concepts》第 11 页)。
+
+# pronounced
+
+- pronounced
+
+adj. very noticeable or certain(明显的，明确的)。
+
+注：虽然 pronounced 来自于 pronounce, 但是意思还是稍微有些差别。
+
+- 示例
+
+The advantage of merge sort is even more pronounced when sorting 100 million numbers: where insertion sort takes more than 23 days, merge sort takes under four hours(《《算法导论(第4版)》》第 13 页)
 
 # prevalent
 
