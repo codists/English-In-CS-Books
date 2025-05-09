@@ -1,3 +1,17 @@
+# fabricate
+
+- fabricate: fabrica("a workshop") 
+
+vt. to manufature sth(制造);  to produce sth in order to deceive(伪造)。
+
+- fabrication
+
+c/u. the act of fabricate。
+
+- 示例
+
+advanced computer architectures and fabrication technologies(《《算法导论(第4版)》》第 14 页)
+
 # faculty
 
 - faculty: fac-("to do")

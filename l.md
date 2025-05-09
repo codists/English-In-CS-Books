@@ -40,6 +40,28 @@ c. 也写作 life-span, the length of time for which a thing exists(寿命)。
 
 One way to improve the lifespan and performance of NVM devices over time is to have the file system inform the device when files are deleted, so that the device can erase the blocks those files were stored on(《Operating System Concepts》第 462 页)。
 
+# light
+
+- in light of
+
+1.释义
+
+idiom. in light of 是美式用法，英式用法是 in the light of。take sth into consideration(鉴于，考虑到，由于)。
+
+2.同义词
+
+(1)in view of
+
+(2)in consideration of/consider 
+
+(3)take sth into account
+
+(4)in relationship to
+
+3.示例
+
+You might wonder whether algorithms are truly that important on contemporary computers in light of other advanced technologies...(《《算法导论(第4版)》》第 14 页)
+
 # -logy
 
 - study of
