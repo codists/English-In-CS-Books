@@ -69,6 +69,16 @@ adv. for a period of time with no fixed end(不确定地，无限期地)。
 
 示例：A process waiting indefinitely under the circumstances just described is an example of a “liveness failure.”(《Operating System Concepts》第 283 页)。
 
+# inferior
+
+- inferior: infra-("below, beneath")
+
+adj. lower in quality(差的, 低级别的)。
+
+- 示例
+
+There might be more than just one viable candidate, but you can often rule out several inferior algorithms in the process(《《算法导论(第4版)》》第 26 页)
+
 # interconnect
 
 - interconnect: inter-("between, among") + connect
