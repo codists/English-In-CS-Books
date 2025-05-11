@@ -2,6 +2,31 @@
 
 - out
 
+# educated 
+
+- educate: e-("out") + *ducere* "to lead"
+- educated
+
+adj. 1.having an education(受过教育的)。2. 比喻意义用法：based on some knowledge of fact(有根据的，有依据的)。
+
+- 示例
+
+You need not make some educated guess about the running time and hope that it never gets much worse(《《算法导论(第4版)》》第 31 页)。
+
+上面这句话的意思是：你无需对运行时间做出某种有根据的猜测，您也无需担心运行时间会变得更长。
+
+# elicit
+
+- elicit: e-("out") + -licere("to entice, lure, deceive, 诱惑")
+
+vt. elicit literally means "to draw out by enticing"; to call forth or draw out sth(引起，引发，引出)。
+
+- 示例
+
+We also need to be clear about whether we are discussing the running time for an input that elicits the worst-case behavior, the best-case behavior, or some other case(《《算法导论(第4版)》》第 26 页)。
+
+上面这句话的意思是：我们还需要明确我们讨论的是哪种情况下的算法运行时间：是输入引发最优行为的情况，还是输入引发最差行为的情况，亦或是其它情况。
+
 # eligible
 
 - eligible: e-("out, from") + legere("to choose"), election。

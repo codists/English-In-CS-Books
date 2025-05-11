@@ -19,6 +19,22 @@ advanced computer architectures and fabrication technologies(《《算法导论(
 - 示例
   For instance, site A might have hosts named program, student, faculty, and cs(《Operating System Concepts》第 738 页)。
 
+# fairly
+
+- fair
+
+adj. 1. impartial and justice(公平的，合理的)。2. moderately numerous, large, or significant(相当的)。
+
+- fairly: fair + -ly
+
+adv. 1. justly(公平地)。2. to a moderately high degree，less than very(相当地，表示程度的副词)。
+
+- 示例
+
+For some algorithms, the worst case occurs fairly often(《《算法导论(第4版)》》第 31 页)。
+
+因为“公平地”和“相当地”意思相差有点大，同时我只记住了"公平"，导致自己每次看到 fairly 脑子都要卡一下——“公平地”意思说不通啊，单词没有记错吧？这里捋一下。
+
 # feeback
 
 - feedback: feed("give food to, supply") + back("return to a previous position")

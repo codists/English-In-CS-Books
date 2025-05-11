@@ -124,3 +124,9 @@ c. drawback literally means sth that pulls back--a disvantage or obstacle. a dis
 - 示例
 
 Historically, UNIX implementations of this mechanism have had several drawbacks(《Operating System Concepts》第 816 页)。
+
+# draw out
+
+draw out 的表示的意思有很多种，这里汇总一下。
+
+- to take out, extract(从.....取出，提取)
