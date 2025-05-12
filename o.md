@@ -21,6 +21,16 @@ optimum也可以做形容词，意思和 optimal 一样，意为"best"。看到�
 
 The SJF scheduling algorithm is provably optimal, in that it gives the minimum average waiting time for a given set of processes(《Operating System Concepts》第 207 页)。
 
+# order of growth/rate of growth
+
+刚开始看到 order 的时候感觉很别扭，因为平时遇到的 order 的意思大多是：1.“顺序(the arrangement of things according to a particular pattern)”; 2. "命令(command)"。
+
+在 “order of growth”中， order 的意思是“层级，阶级，等级，量级(rank, level, category, class)” ，理解了这个意思之后，反而觉得 order of growth(增长量级)更准确一些——“算法运行时间在哪个量级，有一种分类的思想在里面”，而 rate of growth(增长率)更通俗易懂一些——“仅仅体现了算法运行时间变化的快慢”。
+
+*f(n) = 4n**2* *,  g(n) = 2n + 2000*
+
+上面的 f(n) 和 g(n) 分别表示两个算法的最差运行时间(worst-case running time)，因为随着输入 n 的变大，f(n) 变化更快，需要的时间更多，则可以说： f(n) has higher order of growth as it grows quadratically in terms of input size。
+
 # order statistics(顺序统计量)
 
 If the random variables x<sub>1</sub>, ...,  x<sub>n</sub> are arranged in order of magnitude and then written as X<sub>(1)</sub> ≤ ... ≤ X<sub>(n)</sub>, we call X<sub>(i)</sub> the  order statistic (i = 1, ..., n).
