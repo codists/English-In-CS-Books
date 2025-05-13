@@ -72,7 +72,25 @@ adj. in a way that is natural, often sudden, and not planned or forced(自发的
 
 Error detection determines if a problem has occurred — for example a bit in DRAM spontaneously changed from a 0 to a 1, the contents of a network packet changed during transmission, or a block of data changed between when it was written and when it was read(《Operating System Concepts》第 462 页)。
 
-## storage
+# squint
+
+- squint
+
+vi. look askance(斜视)；look at things with eyes partly closed(眯着眼看)。
+
+- 示例
+
+Since the difference between ⌈n/2⌉ and ⌊n/2⌋ is at most 1, which for large n is much smaller than the effect of dividing n by 2, we’ll squint a little and just call them both size n=2。
+
+注：
+
+1.⌈n/2⌉ is the ceiling of n/2 — it rounds up。
+
+。⌊n/2⌋ is the floor of n/2 — it rounds down。
+
+在上面这个例子中"squint a little(斜视一点)"是一种比喻用法，意思是“ignore the small difference to simplify the situation”。
+
+# storage
 
 下面是根据本人理解的进行总结，基于“虚实”进行分类。
 

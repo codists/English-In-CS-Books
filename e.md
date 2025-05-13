@@ -47,6 +47,22 @@ vi. emerge literally means "to rise out from liquid", appear(出现)。
 
 Local-area networks emerged in the early 1970s as a substitute for large mainframe computer systems(《Operating System Concepts》第 736 页)。
 
+# engaing
+
+- engage:en-("in") + gage("pledge，誓言，发誓")
+
+vt. attract and occupy the attention of(吸引)。
+
+- engaging:
+
+adj. charming and attractive(吸引人的，迷人的)。
+
+- 示例
+
+In 1968, Knuth published the first of three volumes with the general title The Art of Computer Programming [259, 260, 261]. The first volume ushered in the modern study of computer algorithms with a focus on the analysis of running time. The full series remains an engaging and worthwhile reference for many of the topics presented here(《《算法导论(第4版)》》第 48 页)。
+
+上面这句话的意思是：1968年，高德纳(Knuth)出版了《计算机程序设计艺术》(总共三卷)的第一卷。第一卷以算法运行时间分析为核心，开创了现代计算机算法研究的先河。对于本书涉及的诸多主题而言，《计算机程序设计艺术》仍是引人入胜且极具价值的参考资料。
+
 # entail
 
 - entail: en-("to make") + taile("legal limitation")
