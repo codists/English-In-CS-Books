@@ -16,6 +16,20 @@ adj. TBD
 
 参考：https://www.databank.com/resources/blogs/what-is-bare-metal-meaning/
 
+# beat
+
+- beat: *bhau-("to strike")
+
+vt. the root of beat is tied to the physical act of striking or hitting repeatedly. 1.to defeat or do bettern than(打败，战胜)。
+
+- 示例
+
+Once the input size n becomes large enough, merge sort, with its O(nlogn) worst-case running time, beats insertion sort, whose worst-case running time is O(n^2)(《《算法导论(第4版)》》第 48 页)。
+
+以前总是不大理解 beat 的意思，大概是因为词典上的例子不够好，像上面这个例子，O(nlogn) 和 O(n^2) 一对比，马上对 beat 有了一个形象的理解。
+
+
+
 # benchmark
 
 - 定义 
