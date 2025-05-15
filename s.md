@@ -8,6 +8,20 @@ vt. sacrifice literally means "to make sacred, to make holy", over time, it evol
 
 For example, a temporary file system is used for fast storage and retrieval of nonpersistent files, while the default secondary storage file system (such as Linux ext4) sacrifices performance for reliability and features(《Operating System Concepts》第 563 页)。
 
+# save someone the trouble/bother (of doing sth)
+
+- 释义
+
+idiom. to do something so that someone else does not have to do it.
+
+- 示例
+
+1. I'll make the appointment for you to save you the trouble/bother.
+
+2. This convention saves us the trouble of naming the bounding constant, allowing it to remain anonymous while we focus on more important variables in an analysis.
+
+上面这句话的意思是：这一约定省去了我们为界限常数(bounding constant)命名的麻烦, 让界限常数保持匿名使得我们在分析中能将注意力集中在更重要的变量上。
+
 # semophore
 
 - semaphore: sema("sign, signal"，参考 semantic) + phoros("bearer") 

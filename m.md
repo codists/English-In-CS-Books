@@ -148,11 +148,17 @@ A family of *moderate* income.
 
 adj. 1. monotonic literally means speaking in such a way that the sounds stays on the same note without going higher or lower(单调的，这里主要指声音方面的)。2. varying in such a way that it either never decreases or never increases. 3. only ever increasing, or only ever getting less(数学上的单调递增或者单调递减的那个“递减”)。
 
-- monotonically
-
 - 示例
 
 The rate-monotonic scheduling algorithm schedules periodic tasks using a static priority policy with preemption(《Operating System Concepts》第 230 页)。
+
+# monotonically
+
+单调地。
+
+# monotonicity
+
+单调性。
 
 # myriad
 

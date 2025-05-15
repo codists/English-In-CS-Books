@@ -150,6 +150,12 @@ Computing time is therefore a bounded resource, which makes it precious(《《�
 
 示例：The interrupt mechanism also implements a system of interrupt priority levels. These levels enable the CPU to defer the handling of low-priority interrupts without masking all interrupts and makes it possible for a high-priority interrupt to preempt the execution of a low-priority interrupt(《Operating System Concepts》第 11 页)。
 
+# proficient
+
+- proficient at/in/with
+
+参考：https://english.stackexchange.com/questions/54417/proficient-in-at-with-what-is-the-correct-usage
+
 # pronounced
 
 - pronounced
