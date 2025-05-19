@@ -69,6 +69,26 @@ adv. for a period of time with no fixed end(不确定地，无限期地)。
 
 示例：A process waiting indefinitely under the circumstances just described is an example of a “liveness failure.”(《Operating System Concepts》第 283 页)。
 
+# inductive hypothesis
+
+- induce: in-("into") + ducere("to lead")
+
+vt. succeed in persuading or influencing (someone) to do something(引诱)。
+
+- induction
+
+u. (math)inference of a generalized conclusion from particular instances(归纳法，从特殊到一般(Observe specific examples or facts → then make a general conclusion.))
+
+- inductive
+
+adj. relating to, or employing mathematical induction(与数学归纳法有关的，采用了数学归纳法的)，虽然这是一个形容词，但是中文环境下往往当做名词("归纳")来翻译，但理解的时候按照形容词来理解。
+
+示例：inductive reasoning(归纳推理)，
+
+- 示例
+
+To apply the inductive hypothesis, you substitute the guessed solution for the function on smaller values—hence the name "substitution method"(《《算法导论(第4版)》》第 90 页)。
+
 # inferior
 
 - inferior: infra-("below, beneath")
@@ -78,6 +98,18 @@ adj. lower in quality(差的, 低级别的)。
 - 示例
 
 There might be more than just one viable candidate, but you can often rule out several inferior algorithms in the process(《《算法导论(第4版)》》第 26 页)
+
+# inkling 
+
+- inkling: inclen("utter in an undertone，低声说话")
+
+c. a hint(提示)；a slight knowledge(一点点知识，浅薄的认知，强调程度轻微，有限。翻译的时候转成动词翻译较好)。 
+
+- 示例
+
+To get an inkling how the number of multiplications might be reduced, as well as why reducing the number of multiplications might be desirable for matrix calculations, suppose that you have two numbers x and y, and you want to calculate the quantity x² + y²(《《算法导论(第4版)》》第 86 页)。
+
+上面这句话的意思是：若想初步了解如何减少乘法运算的次数，以及为何减少乘法运算的次数对矩阵计算而言是可取的，不妨假设你有两个数 x 和 y，然后要计算 x² + y²。
 
 # interconnect
 
