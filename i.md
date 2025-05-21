@@ -161,6 +161,22 @@ vi. intervene literally means "to come between(to step in, mediate or interface 
 
 Consistency checking can require human intervention to resolve conflicts, and that is inconvenient if no human is available(《Operating System Concepts》第 587 页)。
 
+# intuition
+
+- intuit:  in-("into") + tueri("to look at, what over,看")
+
+vt. to understand something immediately based on your feeling rather than facts(凭直觉知道)。
+
+- intuition: 
+
+c/u. an ability to understand something immediately based on your feeling rather than facts(直觉，直观的xxx)。
+
+- 示例
+
+A recursion tree is best used to generate intuition for a good guess, which you can then verify by the substitution method(《《算法导论(第4版)》》第 95 页)。
+
+上面这句话的意思是：递归树最适合用于为合理猜想提供直观思路(或直觉)，之后你可以用代入法对该猜想进行验证。
+
 # inversion
 
 - invert: in-("in") + vertere("to turn")
