@@ -47,6 +47,28 @@ vi. emerge literally means "to rise out from liquid", appear(出现)。
 
 Local-area networks emerged in the early 1970s as a substitute for large mainframe computer systems(《Operating System Concepts》第 736 页)。
 
+# encompass
+
+- compass: com-("with, together") + passus("a step")
+
+compass literally means "to step together", reflecting the idea of encircling(包围)。c. 
+
+- encompass: en-("in") + compass
+
+vt. surround and have or hold with, include(包含)。
+
+- encompass vs comprise
+
+这两个单词很接近，以至于我老是分不清到底用哪个。
+
+encompass: encompass 的意思是 “to include(different types of things)，contain, 包含”。
+
+comprise: comprise 的意思是“make up of, consist of, 由......构成”。
+
+- 示例
+
+The driving function f(n) encompasses the cost of dividing the problem before the recursion, as well as the cost of combining the results of the recursive solutions to subproblems(《《算法导论(第4版)》》第 102 页)。
+
 # engaing
 
 - engage:en-("in") + gage("pledge，誓言，发誓")
