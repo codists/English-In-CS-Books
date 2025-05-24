@@ -62,11 +62,27 @@ The benchmark suite is the tool to use when comparing the complete performance o
 
 如 Python 开发中使用的 pyperformance。
 
+# bi-
+
+- two
+
+示例：**bicycle** – a vehicle with **two wheels**（自行车）；**bilingual** – able to speak **two languages**(双语的);**binary** – consisting of **two parts**: 0,1(二进制)。 
+
 # billion
 
 - billion: bi-("two") + million
 
 c. 这涉及到长级差制(long scale)和短级差制(short scale)，现在主要使用短级差制。在长级差制中，billion literally means "two million/a million million"(10^6 x 10^6 = 10^12， 万亿)，在短级差制，因为是以 1000 为单位累进，billion 就变成了 10^9(十亿)，这样就出现了单词词根与实际值的分离，以 10^3 去记忆。
+
+# binomial
+
+- binomial: bi-("two") + nomius("name")
+
+binomial literally means "a name consisting of two terms"。c. [mathematics]an expression (= mathematical statement) that has two terms (= numbers or symbols) that are not the same(二项式)。For example "4x + y" is a binomial。
+
+- 示例
+
+The study of the binomial distribution continues in Section C.5, an advanced discussion of the "tails" of the distribution(《算法导论(第4版)》第 1178 页)。
 
 # biological
 
