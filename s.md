@@ -145,3 +145,22 @@ In programming, a stub is a small, incomplete piece of code that stands in for a
 The RPC system hides the details that allow communication to take place by providing a stub on the client side(《Operating System Concepts》第 150 页)。
 
 如上, stub想表达的意思：In RPC systems, the term "stub" is used because it represents a simplified, local version of a remote service, much like a "stub" is a small, leftover part of something larger。
+
+# symmetric & symmetrical
+
+- 释义
+
+adj. having similarity in size, shape, and relative position of corresponding parts(对称的)。symmetric 和 symmetrical 的意思是一样的。
+
+- 区别
+
+symmetric: 多用于 technical，mathematical field(如：mathematics, phsics，CS)。
+
+symmetrical: 多用于 common field(如：art, design, nature)。
+
+注：查资料的时候发现有些人对以上区别也不是很认同，从个人有限的阅读中，CS书籍用 symmetric 比较多。
+
+- 示例
+
+1)symmetric matrix(对称矩阵)
+
