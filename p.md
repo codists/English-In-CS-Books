@@ -1,12 +1,32 @@
+# para-
+
+- beside
+
+示例：paradigm。
+
+- against, contrary to
+
+示例：paradox。
+
 # paradigm
 
--  pradadigm: para-("beside(next to)") + *deik-("to show")
+-  paradigm: para-("beside(next to)") + *deik-("to show")
 
-c. Paradigm refere to sth serves as a typical example, model or pattern(范式)。
+c. Paradigm refer to something serves as a typical example, model or pattern(范式)。
 
 - 示例
 
 One of the most common forms of remote service is the RPC paradigm, which was designed as a way to abstract the procedure-call mechanism for use between systems with network connections(《Operating System Concepts》第 149 页)。
+
+# paradox
+
+- paradox: para-("contrary to") + doxa("opinion")
+
+c/u. a situation that contains two opposite facts(悖论)。
+
+- 示例
+
+"This statement is false." is a paradox— —If it’s true, then it must be false. But if it’s false, then it’s true.
 
 # parser generator
 

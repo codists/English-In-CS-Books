@@ -41,15 +41,19 @@ Generators have a major limitation: they can yield values only to their immediat
 
 - impose: in-("in") + pose("to put, to place")
 
-vt. impose literally means to "to forcefully place sth on sth else"; force sth to be accepted(强制实行，施加)。
+vt. impose literally means to "to forcefully place sth (on sth else)((强制地)实行，设置，建立)"。
 
-注：一般来说，虽然 impose 暗含 forcefully 之意，但翻译的时候， forcefully 可不用译出来。
+注：对于 impose, 牢牢抓住 A impose B on C(A 将 B 施加 到 C 上)这个结构，只要梳理清楚该结构，那么理解句子的意思就没有问题了。一般来说，虽然 impose 暗含 forcefully 之意，但翻译的时候， forcefully 也可不用译出来。
 
 - 示例
 
-The original implementation of SMP imposed the restriction that only one processor at a time could be executing kernel code.(《Operating System Concepts》第 794 页)。
+1.The original implementation of SMP imposed the restriction that only one processor at a time could be executing kernel code.(《Operating System Concepts》第 794 页)。
 
-上面这句话的意思是：SMP的最初实现施加了一个限制：同一时间只能有一个处理器执行内核代码。
+上面这句话的意思是：SMP的最初实现施加了一个限制：同一时间只能有一个处理器执行内核代码。分析“A impose B on C”结构——执行 impose 的 A 没有明说，这里可理解为 实现 SMP 的人; B 是"restriction"; C 是 SMP。
+
+2.Instead of assuming a distribution of inputs, we impose a distribution(《Introduction to Algorithms(4th ed)》第 134 页)。
+
+上面这句话的意思是：我们不再假设输入服从某种分布，而是强制施加一种分布。“A impose B on C”结构分析——执行 impose 的 A是 we; B 是"distribution(分布，如：**uniform random distribution**，均匀随机分布)"; C 是 inputs。
 
 # in-(词根)
 
