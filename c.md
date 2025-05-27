@@ -52,6 +52,20 @@ vi/vt. to exam sth to ensure it is correct, true, or in good condition.
 
 在这里，compliance 的意思是 following rules or standards，Unlike PEP 8 (Python's style guide for code), there are fewer tools available to check if your code adheres to or follows the standards set by PEP 7 (the style guide for C code in CPython).
 
+# check out
+
+- to take something from a library (= a place with a collection of books, music, etc.)
+
+这个意思用得比较少，但偶尔也会用到，记一下。
+
+示例：
+
+1.A sophisticated application amortizes the cost of thread-creation by keeping idle threads in a thread pool, then checking them out to reuse them for subsequent tasks; it does the same with sockets in a connection pool(《500 Lines or Less》第 130 页)。
+
+上面这句话的意思是：成熟的应用程序通过以下方式来分摊创建线程的成本：将空闲线程保留在线程池中，供后续线程重复使用。同理，对于连接池中的套接字，也采用相同的处理方式。
+
+注：在上面这个例子中，check out 可翻译为“取出“——“当后续有任务时，可**取出**这些空闲线程重复使用”。只是为了简洁，所以直接翻译成了“供后续线程重复使用”。
+
 # coherency
 
 - coherence: co-("together") + haerere("to adhere, stick")
@@ -116,6 +130,16 @@ vt. give (sb) sth, like money, in recognition of loss, suffering or injure(补�
 
 从技术上来说不难理解，其实就是“重试机制”，但是如果不理解词的意思，有时候就不能很好的理解作者想表达的意思。
 
+# con-
+
+- together, with(一起)
+
+示例：connect(join together, 连接)。
+
+- merely intensive(强化作用)
+
+示例：consume(to use up entirly, 消耗，消费)。
+
 # conceive
 
 - conceive: con-(intensive prefix, 强调作用) + capere("to take")
@@ -145,6 +169,28 @@ vi/vt. to give sth(a title, degree, benefit or right)(给予)。
 - 示例
 
 The ability to execute a program that is only partially in memory would confer many benefits(《Operating System Concepts》第 390 页)。
+
+# consequently
+
+- consequence: con-("together, with") + sequi(from root *sekw-, "to follow")
+
+c. a result of a action/cause(结果，后果)。
+
+- consequent
+
+adj. happening as a result of a action/cause(作为结果的，随之而来的)。
+
+- consequently: 
+
+adv. as a result(因此，所以)。
+
+- 示例
+
+By default, socket operations are blocking: when the thread calls a method like connect or recv, it pauses until the operation completes. Consequently to download many pages at once, we need many threads(《500 Lines or Less》第 130 页)。
+
+上面这句话的意思是：默认情况下，套接字操作是阻塞的，当线程调用函数(如：connect(), recv())时，线程会暂停(pause)直到操作完成。因此，如果想同时下载多个页面，就需要使用多线程。
+
+理解 consequently，要搞清楚“cause > result”是什么。以前总是不理解这个词，今天突然想到其实就是“cause > result”，瞬间就理解了这个单词的使用，于是记一下。
 
 # convoy
 

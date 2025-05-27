@@ -19,6 +19,20 @@ advanced computer architectures and fabrication technologies(《《算法导论(
 - 示例
   For instance, site A might have hosts named program, student, faculty, and cs(《Operating System Concepts》第 738 页)。
 
+# far
+
+- far
+
+adv. to a great extent, very much(“非常”，Adverb of Degree，程度副词)。
+
+- 示例
+
+A complete binary tree is a binary tree in which every level, except possibly the last, is completely filled, and all nodes in the last level are as far left as possible.
+
+上面这句话的意思是：如果一棵二叉树不满时只有最后一层不满，且最后一层的所有节点都尽可能地靠左排列，那么这样的一棵二叉树称为完全二叉树。
+
+刚看到 “as far left as possible” 时有点恍惚，因为平时看到的都是“far away, far from(远离)”，那么“far left”是“远离左边，还是靠近左边”呢? 因为 far 是程度副词，left 是形容词，far 是修饰 left 的——即“left very much, very left”，所以是“尽可能的靠左”。
+
 # fairly
 
 - fair

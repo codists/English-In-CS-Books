@@ -50,6 +50,14 @@ c/u. the act of transmit(transmission 是 transmit 的名词形式)。
 1. transmission control protocol(TCP，传输控制协议)。
 2. transmitting and receiving radio signals(发送和接受无线型号)。
 
+# ten thousand
+
+精确的数值，就是一万(10000)。
+
+# tens of thousands
+
+大概的数值，上万个。
+
 # time
 
 - most of the time
