@@ -128,6 +128,18 @@ c. large, shallow dish for holding food(大浅盘)。
 
 Conceptually, HDDs are relatively simple (Figure 11.1). Each disk platter has a flat circular shape, like a CD(《Operating System Concepts》第 450 页)。
 
+# point
+
+- up to a point
+
+idom. to a limited degree, to some extent(到一定程度，一定程度上)
+
+示例：The tree is completely filled on all levels except possibly the lowest, which is filled from the left up to a point(《算法导论(第4版)》第 161 页)。
+
+上面这句话的意思是：这个树除了最底层可能不是完全填满的，其它层都是完全填满的，最底层从左到右依次填充至某个点。
+
+“up to a point”在这里想表达“最底层的结点从左到右填充到一定程度”。
+
 # pre-(词根)
 
 - before
