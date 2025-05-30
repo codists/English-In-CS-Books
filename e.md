@@ -37,6 +37,24 @@ adj. able to choosen(有资格的)。
 
 In this section, we describe the steps in this procedure, from compiling a program to placing it in memory, where it becomes eligible to run on an available CPU core(《Operating System Concepts》第 75 页)。
 
+# embellishment
+
+- embellish: em-("in") + bel("beautiful")
+
+vt. to make sth more beautiful by adding something to it(“装饰”)。
+
+- embellishment
+
+c/u. the act of embellishing; something serving to embellish。
+
+- 示例
+
+The advantage of doing so is that the mapping is contained entirely within the priority queue, so that the application objects need no further embellishment(《算法导论(第4版)》第 174 页)。
+
+上面这句话的意思是：这样做的好处是映射完全包含在优先队列中，因此应用对象无需进一步修饰。
+
+embellishment 在这里是一种比喻用法，想表达的意思是“无需添加其它东西，例如：属性”。
+
 # emerge
 
 - emerge: e-("out") + mergere("to dip, sink")

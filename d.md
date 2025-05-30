@@ -15,7 +15,12 @@ Trying to identify when to use which tool, however, can be a daunting challenge 
 # de-(词根)
 
 - completely
+
+示例：
+
 - away, off
+
+示例：
 
 # dedicated
 
@@ -40,6 +45,18 @@ u. the act of pretect sth against attack。需要注意用法：defense of, defe
 He published an essay in defense of the freedom of the press(新闻)。
 
 There are many defenses against computer attacks, running the gamut from methodology to technology(《Operating System Concepts》第 637 页)。
+
+# devote
+
+- devote sth to sth
+
+phrasal verb. to give most of something to sth(将......用于......)。
+
+示例：
+
+1.So our event loop is efficient at concurrent I/O because it does not devote thread resources to each connection(《500 Lines or Less》第 133 页)。
+
+上面这句话的意思是：我们的事件循环在并发 I/O 方面非常高效，因为它不会为每个连接分配线程资源。
 
 # dis-(词根)
 
