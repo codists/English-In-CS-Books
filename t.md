@@ -10,7 +10,7 @@ across:  move from one side to another(从一边到另一边，穿过，跨过)�
 
 - transfer: trans-("beyond, across") + ferre("to carry")
 
-vi/vt. transfer literally means "carry across". convey something from one person, place or situation to another(强调从一个地方转移到另一个地方，强调"convey, change")。
+vi/vt. transfer literally means "carry across". convey something from one person, place or situation to another(从一个地方转移到另一个地方，强调"convey, change")。
 
 - 示例
 
@@ -21,7 +21,7 @@ vi/vt. transfer literally means "carry across". convey something from one person
 
 - transport: trans-("beyond, across") + portare("to carry")
 
-vt. transport literally means "carry across". to carry physical items or people(强调运送实体物品或者人，强调"carry, process")。
+vt. transport literally means "carry across". to carry physical items or people(运送实体物品或者人，强调"carry, process")。
 
 - transport/transportation
 

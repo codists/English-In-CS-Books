@@ -1,3 +1,9 @@
+# ad-
+
+有些词是 a 开头(没有d)，但实际词根来自于 ad-。
+
+- towards
+
 # ask
 
 - be asking for it/trouble(自找麻烦)
@@ -75,6 +81,18 @@ c/u. the acting of allot.
 - 示例
 
 From a user’s perspective, a file is the smallest allotment of logical secondary storage; that is, data cannot be written to secondary storage unless they are within a file(《Operating System Concepts》第 530 页)。
+
+# amortize
+
+- amortize: a-("to") + mortus("dead")
+
+vt. amortize originally means "to kill off", overtime, it evolves to mean "to pay off gradually by periodic payments of principal and interest(分期偿还，摊销)"。
+
+英式写法是：amortise。
+
+- 示例
+
+Fredman and Tarjan developed Fibonacci heaps, which support INSERT and DECREASE-KEY in O(1) amortized time (see Chapter 16)(《算法导论(第4版)》第 174 页)。
 
 # approximation
 
