@@ -22,6 +22,32 @@ idiom. to do something so that someone else does not have to do it.
 
 上面这句话的意思是：这一约定省去了我们为界限常数(bounding constant)命名的麻烦, 让界限常数保持匿名使得我们在分析中能将注意力集中在更重要的变量上。
 
+# self-contained
+
+- self-contained: self-("itself, 自身") + contained
+
+adj. self-contained means "containing everything that is needed within itself"。
+
+You can describe someone or something as self-contained when they are complete and separate and do not need help or resources from outside.
+
+self-contained 兼具”完善，独立“的意思，强调“自身已包含所需全部内容，不依赖其它的东西“。虽然常被翻译成”自包含“，但是个人觉得”自包含“这三个字也不好理解。暂未看到有哪个词能很好地与之对应。这里记录一些例子，以帮助理解其内涵。
+
+- 示例
+
+1.JSON Web Token (JWT) is an open standard ([RFC 7519](https://datatracker.ietf.org/doc/html/rfc7519)) that defines a compact and self-contained way for securely transmitting information between parties as a JSON object.
+
+上面这句话的意思是：JSON Web Token （JWT） 是一种开放标准 （[RFC 7519](https://datatracker.ietf.org/doc/html/rfc7519)），它定义了一种紧凑且独立的方式，用于在各方之间以 JSON 对象的形式安全地传输信息。
+
+上面这里的 self-contained 的内核就不大好理解，我也没理解它想表达什么意思，先预留。
+
+2.Each chapter is **self**-**contained** and can be studied in isolation.
+
+上面这句话的意思是：每一章均自成一篇，可单独学习。
+
+这句话如果单看前面一句 .Each chapter is **self**-**contained**，不大好理解，但是看到后半句 can be studied in isolation(可单独学习)，就比较容易理解，self-contained 在这里的意思是 “不依赖于其它章节”，反之， not self-contained 就是“依赖于其它章节”。
+
+
+
 # semophore
 
 - semaphore: sema("sign, signal"，参考 semantic) + phoros("bearer") 

@@ -48,15 +48,13 @@ vi/vt. to exam sth to ensure it is correct, true, or in good condition.
 
 这种用法比较常见。
 
-2.Unlike PEP 8, there are few tools for checking compliance with PEP 7(注：《CPython Internals》第78页).
+2.Unlike PEP 8, there are few tools for checking compliance with PEP 7(《CPython Internals》第78页).
 
 在这里，compliance 的意思是 following rules or standards，Unlike PEP 8 (Python's style guide for code), there are fewer tools available to check if your code adheres to or follows the standards set by PEP 7 (the style guide for C code in CPython).
 
 # check out
 
-- to take something from a library (= a place with a collection of books, music, etc.)
-
-这个意思用得比较少，但偶尔也会用到，记一下。
+- to take something from a library (= a place with a collection of books, music, etc.)，取出。
 
 示例：
 
@@ -65,6 +63,12 @@ vi/vt. to exam sth to ensure it is correct, true, or in good condition.
 上面这句话的意思是：成熟的应用程序通过以下方式来分摊创建线程的成本：将空闲线程保留在线程池中，供后续线程重复使用。同理，对于连接池中的套接字，也采用相同的处理方式。
 
 注：在上面这个例子中，check out 可翻译为“取出“——“当后续有任务时，可**取出**这些空闲线程重复使用”。只是为了简洁，所以直接翻译成了“供后续线程重复使用”。
+
+- to explore，investigate("探索，了解")
+
+示例：We’ll also integrate a documentation utility called Swagger for creating API documentation, write unit and integration tests, learn application debugging, and, finally, check out different methods of deploying and monitoring our REST APIs on cloud platforms for production use.(《Building REST APIs with Flask》第 4 页)
+
+上面这句话的意思是：我们还将集成一个名为 Swagger 的文档工具来生成 API 文档、编写单元测试盒集成测试、学习应用程序调试，最后还会探讨在云平台上部署和监控 REST API 以用于生产环境的不同方法。
 
 # coherency
 
