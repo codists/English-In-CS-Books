@@ -66,3 +66,15 @@ adj. (of land) can produce a large number of good quality crops(肥沃的)。
 - 示例
 
 This problem arises frequently in practice and provides fertile ground for introducing many standard design techniques and analysis tools(《《算法导论(第4版)》》p5)。
+
+# find out
+
+find out 既可以做及物动词，也可以做不及物动词。
+
+- transitive verb
+
+示例：I just found out that he was cheating on the test.
+
+- intransitive verb
+
+示例：I don't know, but I'll *find out* for you
