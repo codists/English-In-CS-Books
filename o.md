@@ -35,6 +35,20 @@ The SJF scheduling algorithm is provably optimal, in that it gives the minimum a
 
 If the random variables x<sub>1</sub>, ...,  x<sub>n</sub> are arranged in order of magnitude and then written as X<sub>(1)</sub> ≤ ... ≤ X<sub>(n)</sub>, we call X<sub>(i)</sub> the  order statistic (i = 1, ..., n).
 
+# out there
+
+- 释义
+
+adv. refer to the wider world。
+
+- 示例
+
+1.As I mentioned earlier, Flask’s server is not suitable for production deployment and is only intended for development and debugging, so we'll be looking into various options out there(《Operating System Concepts》第 490 页)。
+
+上面这句话的意思是：正如我之前提到的那样，Flask 自带的服务器不适合用于生产环境部署，它仅用于开发和调试环境。因此，我们将探讨**用于生产环境的**各种可选方案。
+
+在这个例子中，因为之前一直讨论的是开发环境，这里用“out there”指开发环境之外的。
+
 # overhead
 
 - overhead: over-("above") + head(“top part, uppermost section”)

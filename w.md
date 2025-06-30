@@ -14,3 +14,15 @@ conj. in contrast with the fact that,  in comparison the fact that(用于对比)
 
 在这个例子中，两个人对一件事的态度做对比。
 
+# working
+
+working: work + Ving
+
+adj. adequate to permit work to be done(可用的，可工作的，强调 complete and functional )。
+
+示例
+
+1.And now we shall have our working responses.py module; next we’ll add global HTTP configurations for handling errors(《Building REST APIs with Flask》 p70)。
+
+上面这句话的意思是：现在，我们已经有了**可正常工作的** responses.py 模块；接下来我们将添加杨宏宇处理错误的全局 HTTP 配置。
+

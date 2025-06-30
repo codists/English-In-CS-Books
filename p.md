@@ -182,24 +182,6 @@ Computing time is therefore a bounded resource, which makes it precious(《《�
 
 示例：The interrupt mechanism also implements a system of interrupt priority levels. These levels enable the CPU to defer the handling of low-priority interrupts without masking all interrupts and makes it possible for a high-priority interrupt to preempt the execution of a low-priority interrupt(《Operating System Concepts》第 11 页)。
 
-# proficient
-
-- proficient at/in/with
-
-参考：https://english.stackexchange.com/questions/54417/proficient-in-at-with-what-is-the-correct-usage
-
-# pronounced
-
-- pronounced
-
-adj. very noticeable or certain(明显的，明确的)。
-
-注：虽然 pronounced 来自于 pronounce, 但是意思还是稍微有些差别。
-
-- 示例
-
-The advantage of merge sort is even more pronounced when sorting 100 million numbers: where insertion sort takes more than 23 days, merge sort takes under four hours(《《算法导论(第4版)》》第 13 页)
-
 # prevalent
 
 - prevalent: pre-("before, in front of") + valere("have power, be strong")
@@ -256,6 +238,12 @@ In fact, a process may be interrupted at any point in its instruction stream, an
 
 在上面这个例子中，processing 用于修饰 core, 表示“ core is used for processing”。
 
+# proficient
+
+- proficient at/in/with
+
+参考：https://english.stackexchange.com/questions/54417/proficient-in-at-with-what-is-the-correct-usage
+
 # prominent
 
 - prominent: pro-("forward") +minere("project, jut out", mons("mountain"))
@@ -275,6 +263,18 @@ u. the state of being import or famous。个人觉得 prominence 直接翻译成
 Furthermore, as we have emphasized in earlier chapters, the prominence of multicore systems has brought an increased emphasis on developing multithreaded applications(《Operating System Concepts》第 259 页)。
 
 在上面这个例子中，the prominence of multicore systems 想表示的是“the growing importance and widespread use of multicore systems”。上面这句话翻译成中文意为“此外，正如我们在前面章节所强调的那样，多核系统的突出地位使得开发应用程序的重要性日益增加”。
+
+# pronounced
+
+- pronounced
+
+adj. very noticeable or certain(明显的，明确的)。
+
+注：虽然 pronounced 来自于 pronounce, 但是意思还是稍微有些差别。
+
+- 示例
+
+The advantage of merge sort is even more pronounced when sorting 100 million numbers: where insertion sort takes more than 23 days, merge sort takes under four hours(《《算法导论(第4版)》》第 13 页)
 
 # provable
 

@@ -4,6 +4,20 @@
 
 - towards
 
+# add vs add in vs add on
+
+一般来说没有什么区别。都表示 “include something extra，添加”之意。
+
+- 示例
+
+1.add in
+
+Once we have all our routes in place, we need to add in user authentication to make sure only logged-in users can access certain routes, so now we’ll add in user login and signup routes, but before that we need to add the user schema(《Building REST APIs with Flask》第 88 页)。
+
+2.add on
+
+We’ll start by installing the following dependencies to start with and add on more as we need them(《Building REST APIs with Flask》第 60 页)。
+
 # ask
 
 - be asking for it/trouble(自找麻烦)

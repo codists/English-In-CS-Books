@@ -62,6 +62,13 @@ idiom. in light of 是美式用法，英式用法是 in the light of。take sth 
 
 You might wonder whether algorithms are truly that important on contemporary computers in light of other advanced technologies...(《《算法导论(第4版)》》第 14 页)
 
+# literature
+
+- writing that has lasting value as art(文学作品)
+- all the information written about a subject(文献)
+
+文献的中文解释是”有历史价值或参考价值的图书资料“，示例：物理学文献，参考文献。
+
 # -logy
 
 - study of
