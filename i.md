@@ -191,7 +191,7 @@ vt. to turn sth upside down(使颠倒)。
 
 - **invert vs reverse**
 
-这两个词不好区分在于都包含 "opposite" 之意，目前我也没找到什么比较好的区分特征，先记录。
+这两个词不好区分在于都包含 "do the opposite" 之意，目前我也没找到什么比较好的区分特征，先记录。
 
 invert: turn upside down，turn inside out；flip。
 

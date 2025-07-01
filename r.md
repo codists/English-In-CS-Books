@@ -4,6 +4,16 @@ General-purpose computers run most of their programs from rewritable memory, cal
 
 main memory也称为 RAM， primary memory，一边来说，当只使用 memory 时，其实指的是 main memory(RAM)。 关于 memory 的术语非常多，需要根据上下文去理解具体指的是什么，不能一味套用 。
 
+# re-
+
+- back, back to
+
+示例：return(归还), revert()恢复。
+
+- again
+
+示例：rewrite(重写), revisit(重游)。
+
 # reaper
 
 - reap
@@ -167,6 +177,16 @@ When a server receives a request, rather than creating a thread, it instead subm
 When a server receives a request, rather than creating a thread, it instead stop waiting to submit the request to the thread pool. After submitting the request, server resumes waiting for additional requests.
 
 总之，要理解resume的在具体上下文中的含义，就要把握住“continue doing sth after a pause”的思想。如果句子不全不好理解，就先把句子补全去理解。
+
+# revert
+
+- revert: re-("back") + vertere("to turn")
+
+vi. revert literally means "to turn back to the previous state"，“undo”。虽然 revert 是不及物动词，但是在很多技术书籍中会将其误用作及物动词。
+
+- 示例
+
+1.The upgrade() function applies changes to make the database match the models, while the downgrade() function reverts these changes(《SQLAlchemy 2 In Practice》第 101 页)。
 
 # rewind
 
