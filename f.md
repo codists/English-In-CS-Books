@@ -78,3 +78,30 @@ find out 既可以做及物动词，也可以做不及物动词。
 - intransitive verb
 
 示例：I don't know, but I'll *find out* for you
+
+# fledge & fledged
+
+- fledge: *-flycge("having the feathers developed, fit to fly")
+
+vi/vt. to acquire the feathers necessary for flight(长羽毛)。
+
+示例：The chicks are expected to fledge in August(预计这些雏鸟将在八月份达到羽翼丰满)。
+
+- fledged
+
+adj. furnished with feathers(羽翼丰满的)，thus "developed, matured, able to fly, 成熟的"，常用于 “full-fledged，成熟的，功能完善的，完备的”。
+
+示例：uWSGI is a full-fledged HTTP server and a protocol capable of running production applications(uWSGI 是一款功能完善的 HTTP 应用服务器，实现了 uwsgi 协议，可用于生产环境运行应用程序)。
+
+- fledgling & fledgeling:  fledge + -ling(diminutive suffix, 指小后缀)
+
+常用的是 fledgling, 但 cambridge dictionary 说 fledgling 也写fledgeling。
+
+c. a young bird that has grown feathers and is learning to fly(刚会飞的幼鸟)。
+
+adj. new and without experience(无经验的)。
+
+示例：Like any fledgling technology—hey, even the first iPhone was a bit clunky—AI comes with its share of hiccups, issues, and hurdles(就像任何新生技术一样——就连初代iPhone也有些笨拙——AI技术同样伴随着各种小毛病、问题和障碍)。
+
+**之前晃眼一看以为和"develped(发达的) & developing(发展中的)" 一样，其实不是，fledgling 是去掉 e 加一个"指小后缀 ling"。**
+
