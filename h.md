@@ -1,3 +1,29 @@
+# hallucination
+
+- hallucinate: alucinari(wander in mind, 神游)
+
+vi/vt. to seem to see, hear, smell or feel something that does no exist, usually because of a health condition(出现幻觉， 使产生幻觉)。 
+
+- hallucination vs illusion
+
+hallucination 和 illusion 在翻译成中文的时候往往都翻译成“幻觉”，这里梳理一下其区别。
+
+1. hallucination:
+
+A **hallucination** is to see something that is not real! For example, if you feel that you are seeing a cat that is flying, then you are experiencing a hallucination.
+
+示例：For LLMs, **hallucinations** are instances in which the model outputs data that appears accurate but is factually incorrect or not grounded in the input data on which the model was trained(对于大语言模型(LLM)而言，“幻觉”是指模型生成看似准确，实则不正确或未基于其训练数据的内容)。
+
+在上面这个例子中：LLM 生成一些未基于训练数据的内容。
+
+2. illusion
+
+An **illusion** is to look at something real but to see it in a different way, like when you look at two horizontal lines but it feels like they are not actually horizontal.
+
+示例： Mirage is an optical illusion commonly seen in deserts(海市蜃楼是一种在沙漠中常见的光学幻觉)。
+
+在上面这个例子中：实际存在的是光，因为光的折射看成楼台。
+
 # hazard
 
 - c. sth that is dangerous and likely to cause damage(危害，风险，隐患)
