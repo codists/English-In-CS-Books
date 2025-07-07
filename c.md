@@ -241,3 +241,21 @@ vt. in an opposite direction(反对，反驳)。
 Thus, output to the disk through the file system is often faster than is input for small transfers, counter to intuition(《Operating System Concepts》第 586 页)。
 
 count 和 counter 的词根竟然是不一样的。
+
+# craft
+
+- craft vs make
+
+craft: to create something with care, skill or ingenuity(强调技巧感，艺术性，设计感，对细节的关注，可理解为“精心制作，匠心打造”)。
+
+make:  to create  something(中性词，可理解为“制作，制造”)。
+
+注意：1. craft 和 make 这两个词在翻译中往往需要根据上下文进行灵活调整。2.两者有时可以交换使用，其实本人看到 craft 的时候更多的是将其理解为 make。
+
+- 示例
+
+1.Craft essential Python patterns by following core design principles(《Mastering Python Design Patterns(third edition)》封面)。
+
+上面这句话的意思是：遵循核心设计原则，打造关键的 Python 设计模式。
+
+其实个人觉得在这个例子中将 craft 替换为 make 也不影响，本质都是 code。 
