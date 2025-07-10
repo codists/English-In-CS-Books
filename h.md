@@ -24,6 +24,16 @@ An **illusion** is to look at something real but to see it in a different way, l
 
 在上面这个例子中：实际存在的是光，因为光的折射看成楼台。
 
+# hands-on
+
+adj. involing direct practical operation rather than theory(动手的，实际操作的)。
+
+- 示例
+
+This book adopts a hands-on approach, providing code examples for each design pattern(《Mastering Python Design Patterns》 preface)。
+
+上面这句话的意思是：本书采用实战方式，针对每种设计模式提供可运行的代码示例。
+
 # hazard
 
 - c. sth that is dangerous and likely to cause damage(危害，风险，隐患)

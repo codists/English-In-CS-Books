@@ -1,5 +1,7 @@
 # e-(词根)
 
+e- is a variant of ex-(e- 是 ex- 的变体)。
+
 - out
 
 # educated 
@@ -162,3 +164,18 @@ c/u. the increase in size, number or importance(扩大，增加)。
 - 示例
 
 An expansion of this idea is to maintain a list of modified pages(《Operating System Concepts》第 412 页)。
+
+# evolve
+
+evolve: ex-("out") + volvere("to roll")
+
+vi/vt. Evolve originally means "to roll out"——like unrolling a scroll or unfold something that is wrapped up. develope gradually(不断演变)。
+
+示例
+
+1.One of the most common challenges in software development is dealing with change. Requirements evolve, technologies advance, and user needs also change(《Mastering Python Design Patterns》第 4 页)。
+
+上面这句话的意思是：处理变更是软件开发中最常见的挑战之一。软件规格(requirements)在发展，技术在进步，用户需求(needs)也在变化。
+
+
+
