@@ -1,3 +1,35 @@
+# accommodate
+
+- accommodate: ad-("to") + com- + modus("measure, manner")
+
+vt. to provide what is needed。这个词在中文中不大好翻译。
+
+- 示例
+
+When an operating system accommodates multiple users, the issues of file sharing, file naming, and file protection become preeminent(《Operating System Concepts》第 603 页)。
+
+在上面这个例子中，accomodate 可以理解为“operating system support functionality of serving multiple users at the same time””，整句话的意思是“当操作系统支持多用户时，文件共享、文件命名和文件保护就会变得至关重要”。
+
+# acronym
+
+- acronym: acro-("highest, topmost") + -onym("name")
+
+c. word formed from the first letters of each word(首字母缩略词)。
+
+- 示例
+
+API is the acronym for Application Programming Interface.
+
+# acyclic
+
+- acyclic: a-("not") + cylic(参考 cycle)
+
+adj. involve a cycle(环状的)。
+
+- 示例
+
+An acyclic graph—that is, a graph with no cycles—allows directories to share subdirectories and files(《Operating System Concepts》第 547 页)。
+
 # ad-
 
 有些词是 a 开头(没有d)，但实际词根来自于 ad-。
@@ -17,34 +49,6 @@ Once we have all our routes in place, we need to add in user authentication to m
 2.add on
 
 We’ll start by installing the following dependencies to start with and add on more as we need them(《Building REST APIs with Flask》第 60 页)。
-
-# ask
-
-- be asking for it/trouble(自找麻烦)
-
-However, for applications where security matters, we are asking for trouble if we assume that the source or destination address of a packet reliably determines who sent or received that packet(《Operating System Concepts》第 638 页)。
-
-# accommodate
-
-- accommodate: ad-("to") + com- + modus("measure, manner")
-
-vt. to provide what is needed。这个词在中文中不大好翻译。
-
-- 示例
-
-When an operating system accommodates multiple users, the issues of file sharing, file naming, and file protection become preeminent(《Operating System Concepts》第 603 页)。
-
-在上面这个例子中，accomodate 可以理解为“operating system support functionality of serving multiple users at the same time””，整句话的意思是“当操作系统支持多用户时，文件共享、文件命名和文件保护就会变得至关重要”。
-
-# acyclic
-
-- acyclic: a-("not") + cylic(参考 cycle)
-
-adj. involve a cycle(环状的)。
-
-- 示例
-
-An acyclic graph—that is, a graph with no cycles—allows directories to share subdirectories and files(《Operating System Concepts》第 547 页)。
 
 # adverse
 
@@ -121,6 +125,12 @@ c. a value  that is nearly but not exactly correct.
 - 示例
 
 Could you give me a rough approximation of how many people will be coming?
+
+# ask
+
+- be asking for it/trouble(自找麻烦)
+
+However, for applications where security matters, we are asking for trouble if we assume that the source or destination address of a packet reliably determines who sent or received that packet(《Operating System Concepts》第 638 页)。
 
 # automaton & automata
 
