@@ -29,3 +29,15 @@ c/u. an idea.
 - 示例
 
 The complete protocol for interaction between the host and a controller can be intricate, but the basic handshaking notion is simple(《Operating System Concepts》第 493 页)。
+
+# nudge
+
+nudge: nugge("to jostle(推挤), rub(摩擦)")
+
+vi/vt. to push someone with elbow to attract the person's attention(用肘轻触（某人以引起注意）)。Figurative sense of "give a hint or signal to"(比喻意义：“给予暗示或信号”)。
+
+示例
+
+1.But given the complexities of programming languages and frameworks, there are times when you need to nudge the LLM(《AI-Assisted Programming》第 53 页)。
+
+上面这句话的意思是：考虑到编程语言和框架的复杂性，有时你需要对大语言模型（LLM）稍作提示。
