@@ -64,11 +64,19 @@ c/u. the act of transmit(transmission 是 transmit 的名词形式)。
 
 可以直接做副词使用，意思是"usually, very often"。示例：Moderate contention is particularly interesting to examine. In this scenario, the CAS operation succeeds most of the time, and when it fails, it will iterate through the loop shown in Figure 6.8 only a few times before ultimately succeeding(《《Operating System Concepts》第 286 页》)。
 
+# track
+
+- be on track for something/be on track to do something
+
+making progress and likely to  achieve a particular thing.
+
+
+
 # transaction
 
 - 英语中的意思
 
-c/u. trans-("across") + agere("to drive, do, peform")。the act of perform sth across parties(交易)。
+c/u. trans-("across") + agere("to drive, do, perform")。the act of perform something across parties(交易)。
 
 - 编程中的意思
 
