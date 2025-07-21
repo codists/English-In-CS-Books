@@ -100,6 +100,16 @@ spawn原来的意思是“spreading out of fish eggs released in water”，后�
 
 CPython provides both a high-level and a low-level API for creating, spawning, and controlling threads from Python(《CPython Internals》第250页)。
 
+# splash
+
+- splash
+
+c. the noise of something hitting water(落水声，溅泼声)。
+
+- make a splash
+
+idiom. to become suddenly very successful or very well know(一飞冲天，一炮而红，一举成名)。
+
 # spontaneously
 
 - spontaneous: sponte("of one's own accord, willingly(自愿)")

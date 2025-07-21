@@ -16,7 +16,7 @@ conj. in contrast with the fact that,  in comparison the fact that(用于对比)
 
 # whip
 
-- whip up
+- ## whip up
 
 phrase verb. quickly create or produce something(迅速制作)。
 
