@@ -1,3 +1,13 @@
+# abreast
+
+abreast: a- + breast。
+
+adj/adv: a contraction of on breast, "side-by-side, 并肩的地，并排地"。 
+
+- take abreast of something/keep abreast of something
+
+idiom. to make sure you know all the most recent fact about a subject or situation(紧跟最新变化)。
+
 # accommodate
 
 - accommodate: ad-("to") + com- + modus("measure, manner")
