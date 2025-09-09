@@ -122,6 +122,24 @@ vt. amortize originally means "to kill off", overtime, it evolves to mean "to pa
 
 Fredman and Tarjan developed Fibonacci heaps, which support INSERT and DECREASE-KEY in O(1) amortized time (see Chapter 16)(《算法导论(第4版)》第 174 页)。
 
+# apparent & apparently
+
+- apparent: appear
+
+adj.(1)visible(明显的);(2)seeming(看似，表面上的) 。
+
+- apparently: apparent + -ly
+
+adv. it seems apparent。
+
+apparent & apparently 有多个意思，之前只记了“visibly, able to be seen(明显的)”，导致在阅读的时候在遇到另外一个意思的时候总是觉得有点别扭，后面把该词的所有意思都看了一下，原来还有一个意思是“seemingly”。所以记一下。
+
+- 示例
+
+The list provided demonstrates the multitude of factors that can influence an apparently simple design decision(《Learn Python Programming(4th)》第 123 页)。
+
+上面这句话的意思是：所提供的列表表明：一个看似简单的设计决策会受到诸多因素的影响。
+
 # approximation
 
 - approximate: ad-("to") + proximus("nearest")
