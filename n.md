@@ -20,6 +20,26 @@ vi/vt. to direct the way(导航)；find the way through something complex(探究
 
 上面这句话的意思是：我希望，在读完本书之后，你将更有能力地去**研读**官方文档，继续你的学习之旅。
 
+# negligible
+
+- neglect: nec/neg("not") + legere(from *leg-(“collect, gather”), "pick up, select") 
+
+vt. neglect literally means "not to pick up"(忽视，忽略)。
+
+- negiligence
+
+u. the fact of not give enough attention to something(疏忽)。
+
+- negligible: negligence + -ible
+
+adj. too small in amount to be important(微不足道的)。形容词和动词、名词的意思稍微有点区别。
+
+示例
+
+示例1： For example, sometimes we have to sacrifice readability or maintainability to achieve a negligible improvement(《Learn Python Programming(4th)》 第 165 页)。
+
+上面这句话的意思是：例如，有时为了换取微不足道的性能提升，我们不得不牺牲代码的可读性和可维护性。
+
 # notion
 
 - notion: *gno-("to know")
