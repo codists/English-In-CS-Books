@@ -53,6 +53,7 @@ c/u. the distinctive, unusual, or unique feature or characteristic of sth(特性
 # per-(词根)
 
 - through
+- thorougly
 
 # perceive
 
@@ -85,6 +86,12 @@ Virtualization permeates all aspects of computing(《Operating System Concepts�
 - permeate vs pervade
 
 暂时没看到明显的区分标准，TBD。
+
+# permutation
+
+- permutation: per-("thoroughly") + mutare("to change")
+
+c. permutation literally means "change thoroughly, a  thoroughchange, exchange". In mathmatics, "any of the various arrangements(排列)"。
 
 # pervasive
 
