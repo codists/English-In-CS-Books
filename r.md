@@ -28,6 +28,18 @@ c. a machine that cut and collect crops(收割机)。
 
 Such kernel routines are often known as reapers, and they may apply any of the page-replacement algorithms covered in Section 10.4(《Operating System Concepts》第 417 页)。
 
+# recap
+
+- recap: re-("again") + cap("a soft flat that has a curved part sticking out at the front,棒球帽")
+
+vi/vt. Recap literally means "to put a cap again on something"。to summarize(概述), to restate the main points of something(扼要重述)。后面一般跟的是解释。
+
+- 示例
+
+By now, we expect you to be able to understand it by yourself, but let us quickly recap what happens. The for loop outside the function gets an iterator from print_squares(2, 5) and calls next() on it until iteration is over...(《《Learn Python Programming(4th)》》第 186 页)。
+
+刚开始遇到这句话的时候，自己没有查字典，感到很奇怪，re- 是“repeat, again”之意，但是一直不理解作者想要“重复”什么，感觉 recap 后面跟的一大段内容和前面没啥区别啊。后面一查，原来是“扼要重述”。行吧，其实作者前面说的我已经理解了，作者再说一遍我反而搞不懂作者想做什么了。当然，如果从自身找原因就是“读得少”，假如作者用 summarize/summary, 那我就懂了。
+
 # reclaim
 
 - reclaim: re-("again") + clamare("cry out, shout, call")
@@ -103,6 +115,26 @@ c/u. the act of making or doing sth again。
 - 示例
 
 To enhance the availability of the crucial mapping information, we can use replication, local caching, or both(《Operating System Concepts》第 764 页)。
+
+# reproduce
+
+- reproduce: re-("again") + produce
+
+vi/vt. create something very similar to (something else), 再现，重现，模拟。
+
+- 示例
+
+In the next few examples, let us see how to reproduce map() and filter() using generator expressions:
+
+```
+# gen.map.py
+def adder(*n):
+	return sum(n)
+s1 = sum(map(adder, range(100), range(1, 101)))
+s2 = sum(adder(*n) for n in zip(range(100), range(1, 101)))
+```
+
+(《《Learn Python Programming(4th)》》第 187 页)。
 
 # resemble
 
