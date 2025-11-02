@@ -184,9 +184,7 @@ vt. resolve literally means "to loosen or release sth back to its original state
 
 -  resolve vs solve
 
-暂没看到比较明显的区分。下面是本人认为相而言还说的过去的一个对比：
-
-solve, resolve, unfold, unravel, decipher can all mean to make clear or apparent or intelligible what is obscure or mysterious or incomprehensible. Solve is the most general in meaning and suggestion in this group; it implies the finding of a satisfactory answer or solution, usually to something of at least moderate difficulty {the mystery and disquieting meaninglessness of existence ... were solved for me now—L. P. Smith} {create a difficulty rather than solve one—A. M. Young} Resolve [...], as contrasted with solve, is likely to indicate analytic arrangement and consideration of the various phases or items of a problem or situation rather than finding a final solution or answer and is likely to suggest dispelling of confusion or perplexity by a clear formulation of questions or issues {you may find it of some interest to be told that the law has had to struggle with these problems and to know how it has resolved them—[Benjamin] Cardozo} In some situations this process may achieve an answer, especially a ready or summary one {he was at the same time resolving successive tangles of intrigue against himself and his policy—[Hilaire] Belloc} {it was realized that the method of resolving apparent contradictions by liquidating one of the contradictories is not the way to arrive at true solutions—Times Lit[erary] Sup[plement]}
+暂没看到比较明显的区分。
 
 - 示例
 

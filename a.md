@@ -44,7 +44,9 @@ An acyclic graph—that is, a graph with no cycles—allows directories to share
 
 有些词是 a 开头(没有d)，但实际词根来自于 ad-。
 
-- towards
+- towards,to
+
+示例：
 
 # add vs add in vs add on
 
@@ -110,6 +112,16 @@ c/u. the acting of allot.
 
 From a user’s perspective, a file is the smallest allotment of logical secondary storage; that is, data cannot be written to secondary storage unless they are within a file(《Operating System Concepts》第 530 页)。
 
+# another
+
+- another: an + other
+
+adj. someone or something else(另一个). A contraction of an other(an + other，所以即使后面跟的是名词单数，也不用加 a/an)。
+
+- 示例
+
+1.I'm going to have another piece of cake.
+
 # amortize
 
 - amortize: a-("to") + mortus("dead")
@@ -121,6 +133,12 @@ vt. amortize originally means "to kill off", overtime, it evolves to mean "to pa
 - 示例
 
 Fredman and Tarjan developed Fibonacci heaps, which support INSERT and DECREASE-KEY in O(1) amortized time (see Chapter 16)(《算法导论(第4版)》第 174 页)。
+
+# ap-
+
+- ap-: towards, to. Form of Latin *ad-* in compounds with words or stems beginning in *-p-*;
+
+示例：appreciate。
 
 # apparent & apparently
 
@@ -139,6 +157,18 @@ apparent & apparently 有多个意思，之前只记了“visibly, able to be se
 The list provided demonstrates the multitude of factors that can influence an apparently simple design decision(《Learn Python Programming(4th)》第 123 页)。
 
 上面这句话的意思是：所提供的列表表明：一个看似简单的设计决策会受到诸多因素的影响。
+
+# appreciate
+
+appreciate：ap-(to) + pretium("price")
+
+vi/vt. appreciate literally means "to set a price to", over time, it evolves to mean "to recognize how good something is(领略到事物的美好——欣赏)"，underestand fully(领会)。
+
+示例
+
+1.Now, we have all the tools to appreciate how we can write our own custom iterator(《Learn Python Programming(4th)》第 245 页)。
+
+上面这句话的意思是：现在，我们已经有了用来了解如何编写自定义的迭代器的所有工具。
 
 # approximation
 
