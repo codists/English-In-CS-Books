@@ -17,6 +17,10 @@ You need not make some educated guess about the running time and hope that it ne
 
 上面这句话的意思是：你无需对运行时间做出某种有根据的猜测，您也无需担心运行时间会变得更长。
 
+# element-wise
+
+element-wise: element + -wise("in the manner of")
+
 # elicit
 
 - elicit: e-("out") + -licere("to entice, lure, deceive, 诱惑")
@@ -164,6 +168,18 @@ c/u. the increase in size, number or importance(扩大，增加)。
 - 示例
 
 An expansion of this idea is to maintain a list of modified pages(《Operating System Concepts》第 412 页)。
+
+# expose
+
+- expose: ex-("out") + ponere(“to put, to place”)
+
+vt. Expose literally means "to put out(放到外面)，暴露，揭露"， figuratively means "to explain(解释，阐述), reveal(解释)"。
+
+- 示例
+
+1.As a developer, it is quite likely that you will have to work on APIs, at some point in your career. Technology and frameworks evolve all the time, so we recommend that you also focus on the theoretical concepts we are going to expose, as that knowledge will help you be less dependent on any particular framework or library.(《Learn Python Programming(4th)》第 456 页)。
+
+上面这句话的意思是：作为一名开发人员，在职业生涯的某个阶段很可能需要从事 API 相关的工作。技术和框架一直在变化，因此我们建议你除了关注技术和框架外，也要关注一下我们将要讲解的理论概念，这样你就不会过度依赖某个特定的框架或库。
 
 # evolve
 

@@ -24,6 +24,22 @@ phrase verb. quickly create or produce something(迅速制作)。
 
 上面这句话的意思是：在本章中，我们将深入探讨一些广泛使用的通用大语言模型，他们能够快速生成代码。
 
+# wise/-wise
+
+- in the direction of
+
+示例：clockwise(顺时针方向)， lengthwise(纵向)。
+
+- in the manner of, in the way of
+
+示例：
+
+1.The relu operation and addition are element-wise operations: operations that are applied independently to each entry in the tensors being considered(《Deep learning with Python》第 38 页)。
+
+上面这句话的意思是：ReLU 运算和加法都是逐元素运算： 即这些运算独立地应用于张量中的每个元素。
+
+在上面这句话中，element-wise 的意思是“in the manner of each element”。
+
 # working
 
 - working: work + Ving

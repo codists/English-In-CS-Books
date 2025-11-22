@@ -1,6 +1,6 @@
 # 传输: transfer, transport, transmit
 
-这几个词曾一度让我很头痛，**因为这些词都被翻译成了”传输“，从中文的角度来说，不是那么好理解。所以不考虑字母顺序专门放到了第一位。
+这几个词曾一度让我很头痛，因为这些词都被翻译成了”传输“，从中文的角度来说，不是那么好理解。所以不考虑字母顺序专门放到了第一位。
 
 beyond: move past something(超过，超越)，extend past limit(超出限制)。 
 
@@ -115,3 +115,18 @@ adj. significant。
 - 示例
 
 Designing such applications is not a trivial undertaking: programmers must address not only the challenges outlined in Section 4.2 but additional difficulties as well(《Operating System Concepts》第 177 页)。
+
+# touch
+
+vi/vt. to put your hand lightly onto and off something(触摸)。
+
+## touch on
+
+phrasal verb. to mention a subject quickly when speaking or writing about another subject(提及)。
+
+- 示例：
+
+1. We are going to briefly touch on the HTTP protocol, as it is the infrastructure upon which we will build the API(《Learn Python Programming(4th)》第 455 页)。
+
+上面这句话的意思是：我们将会简要介绍 HTTP 协议，因为 HTTP 协议是我们构建 API 所依赖的基础架构。
+
