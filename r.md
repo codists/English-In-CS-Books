@@ -243,3 +243,33 @@ adv. in a stiff or fixed way.
 示例：Files may be free-form (for example, text files), or they may be formatted rigidly (for example, fixed fields such as an mp3 music file)(《Operating System Concepts》第 29 页)。
 
 在上面这句话中，rigidly 的意思是“strictly, inflexibly, in a highly structured manner”,当然，这种描述比较抽象。
+
+# routine
+
+## 定义
+
+根据维基百科(https://en.wikipedia.org/wiki/Function_(computer_programming)): 
+
+> In computer programming, a function (also procedure, method, subroutine, routine, or subprogram) is a callable unit of software logic that has a well-formed interface and behavior and can be invoked multiple times(在计算机编程中，函数(也称为过程，方法，子例程，例程或子程序)是一种可调用的软件逻辑单元，......(注：个人觉的中间这部分定义不好，故不译)，可多次调用)。
+
+其实，**procedure，function, method, routine, subroutine, subprogram** 都是指我们平时所说的“函数”，只是在不同编程语言中有称呼不同，差别细微，大体意思是一样的。
+
+## 示例
+
+1.
+
+In this chapter, routine docstrings are presented, grouped by functionality. Many docstrings contain example code, which demonstrates basic usage of the routine(Numpy docs, API reference: https://numpy.org/doc/stable/reference/routines.html)
+
+上面这句话的意思是：本章将介绍按功能分组的例程文档字符串。许多文档字符串都包含示例代码，演示了例程的基本用法。
+
+在 Numpy 官方文档刚开到这句话的时候有点懵，一下子没反应过来“routine”到底指什么。看了下 Array creation routines 章节，其实就是各种方法，如 numpy.zeros()：
+
+> - numpy.**zeros**(*shape*, *dtype=float*, *order='C'*, ***, *like=None*)
+>
+>   ​	Return a new array of given shape and type, filled with zeros.
+
+个人理解这里所以用 routine, 是因为想表达一种更“宽泛”的意思——包含“函数(function)和方法(method)”。
+
+2.
+
+For example, the library routine sqrt expects a double argument, and will produce nonsense if inadvertently handled something else(《The C Programming Language》第 44 页)。
