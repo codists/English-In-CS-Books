@@ -61,7 +61,7 @@ c/u. the distinctive, unusual, or unique feature or characteristic of sth(特性
 
 Perceive literally means "to take entirely", figuratively, means "to grasp with the mind(to view(看待)， to understand(理解)，to comprehend)"；
 
-vt. be come aware of sth。
+vt. become aware of sth(对......的感知)。
 
 - 示例
 
@@ -181,7 +181,7 @@ Computing time is therefore a bounded resource, which makes it precious(《《�
 
 - preemption: pre-("before") + emption(*em-, "to take, to buy")
 
-也写作 pre-emption。c/u. Preemption originally means "a purchase by one before an opportunity is offered to others(有限购买权)"， which later evolved to mean "the act of preventing sth from happening by taking action first(优先采取行动预防某事发生，即先发制人) "
+也写作 pre-emption。c/u. Preemption originally means "a purchase by one before an opportunity is offered to others(优先购买权)"， which later evolved to mean "the act of preventing sth from happening by taking action first(优先采取行动预防某事发生，即先发制人) "
 
 - preempt: back-formation of pre-emption.
 

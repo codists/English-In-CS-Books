@@ -22,6 +22,22 @@ Trying to identify when to use which tool, however, can be a daunting challenge 
 
 示例：
 
+# decent
+
+- decent: decere < *deke- < *dek("to accept")
+
+adj. 1. socially accetable(即 respectable, “体面的”)。2.quit a bit of(表示数量多，或者程度深)，具体意思需要根据上下文理解，该用法较少。
+
+- 示例
+
+1.In addition to washing the laundry, which takes a decent amount of time, you need to dry the laundry and then fold it(《Grokking Concurrency》第 116 页)
+
+上面这句话的意思是：除了要花不少时间洗衣服外，你还需要花时间烘干衣服，花时间叠好衣服。这里的 decent time 意思是“quite a bit of time”，表示要花的时间多。
+
+2.We get good benefits, and the pay is decent.
+
+上面这句话的意思是：我们的福利不错，薪水也还算不错。decent pay 想表达的意思是“数量不少”。
+
 # dedicated
 
 - dedicated: de-("complete, thoroughly") + dicare("to proclaim, to delcare")
