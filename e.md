@@ -43,6 +43,32 @@ adj. able to choosen(有资格的)。
 
 In this section, we describe the steps in this procedure, from compiling a program to placing it in memory, where it becomes eligible to run on an available CPU core(《Operating System Concepts》第 75 页)。
 
+# em-(词根)
+
+- in
+
+示例：embarrass，embellishment。
+
+# embarrassingly
+
+embarass: em-("in") + *barra("bar, barrier, 栏杆，障碍物")
+
+vt/vi. literally, embarass means "to put barrier in someone's way", overtime, it evolves to mean "make someone feel awkward(使尴尬)"。
+
+embarrassing:
+
+adj. making make someone feel awkward(使人尴尬的)。
+
+embarrassingly: 
+
+adv. in a way that is embarrassing(使人尴尬的)。
+
+示例
+
+1.Tasks that require little or no synchronization are sometimes called embarrassingly parallel. They can easily be broken down into independent tasks executed in parallel(《Grokking Concurrency》第 25 页)。
+
+上述 embarrassingly 的意思和原来的意思相去甚远，应该是“**embarrassingly parallel**”在这里是描述“task 很**容易**拆分成小任务来并行运行”。
+
 # embellishment
 
 - embellish: em-("in") + bel("beautiful")
