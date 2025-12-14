@@ -152,6 +152,35 @@ Since the difference between ⌈n/2⌉ and ⌊n/2⌋ is at most 1, which for lar
 
 在上面这个例子中"squint a little(斜视一点)"是一种比喻用法，意思是“ignore the small difference to simplify the situation”。
 
+# start vs start up 
+
+意思上没有太大区别，都是“begin doing something”之意。至于用法，没有看到很明显的区分标准，下面这个解释勉强还行：
+
+> There's a lot of interchangeability here. But I'd say "start up" would more often be used more when what you're starting is a process that continues without your involvement. You start up a computer, for example, or an engine, or a group -- you can set these things in motion but they don't necessarily require you.
+>
+> When you begin an activity that you'll continue to do, you wouldn't use "start up". "I started to run", not "I started up running". "I started washing the dishes."
+>
+> **在用法上有很大的互换性。 “start up”常用于启动一个无需你参与仍会持续运行的过程(process)。例如，启动电脑、发动机，或者成立一个团体——你可以让这些事情运转起来，但它们并不一定需要你参与。**
+>
+> **当你开始的是一项需要你自己持续进行的活动(activity)时，通常不用 “start up”。比如说：“I started to run(我开始跑步)”，而不是 “I started up running”。又比如：“I started washing the dishes(我开始洗碗)”。**
+这里记录一些例子。
+
+## start
+
+示例：
+
+1. They started building the house in January.
+
+## start up
+
+示例：
+
+1. 
+
+```
+print(f”Starting up at: {ADDRESS}”)  # (《Grokking Concurrency》第 183 页)
+```
+
 # storage
 
 下面是根据本人理解的进行总结，基于“虚实”进行分类。
