@@ -159,7 +159,33 @@ c. a moving staircase consisting of an endlessly circulating belt of steps drive
 
 If the program is executed in another domain, it can escalate privileges(《Operating System Concepts》第 625 页)。
 
-# ex-
+# *es-(词根)
+
+- to be
+
+# essentially
+
+- essence: *es-("to be")
+
+c/u. the nature of something(本质)。
+
+- essential: 
+
+adj. necessary or needed(必不可少的)。
+
+- essentially: essential + -ly
+
+adv. used to emphasize(stress) the nature of something(本质上)。既然是“本质上”，那么就有“表面上”作为对比。但是关于“表面上”的表述往往被省略。
+
+**“essential” 与 “essence， essentially”的意思相差有点大，但是自己每次看到 essentially 总是以为是 “necessary”的意思，导致总是理解错误。这里记一下。**
+
+- 示例
+
+1. In the previous code, the server is essentially blocked by a single client connection(《Grokking Concurrency》第 186页)。
+
+上面这句话的意思是：在之前的代码中，本质上是服务器被单个客户端连接阻塞了。
+
+#  ex-
 
 - out
 
