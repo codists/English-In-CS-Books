@@ -209,6 +209,18 @@ RAM，ROM。
 
 使用的物理材料是：HDDS(Hard Disk Drivers)， NVM。
 
+# subject
+
+## be subject to something
+
+phrasal verb. 1. suffer from something unpleasant(“遭受不好的东西”)。这个词用使用场景比较宽泛，具体意思根据上下文来翻译。
+
+- 示例
+
+1.It is important to note that asyncio does not circumvent the GIL, and we are still subject to it(《Python Concurrency with asyncio》第 17 页)。
+
+上面这句话的意思是：需要注意的是，asyncio 并不能绕过 GIL(全局解释器锁)， 即使我们使用 asyncio, 我们依然受 GIL 的限制。GIL 某种程度上来是不好的东西，直接的意思就是“suffer from GIL”，但翻译的时候根据上下文意译为“be affected by GIL(受 GIL  影响，受 GIL 限制)”。
+
 # stub
 
 - stub
@@ -221,7 +233,7 @@ In programming, a stub is a small, incomplete piece of code that stands in for a
 
 The RPC system hides the details that allow communication to take place by providing a stub on the client side(《Operating System Concepts》第 150 页)。
 
-如上, stub想表达的意思：In RPC systems, the term "stub" is used because it represents a simplified, local version of a remote service, much like a "stub" is a small, leftover part of something larger。
+如上, stub 想表达的意思：In RPC systems, the term "stub" is used because it represents a simplified, local version of a remote service, much like a "stub" is a small, leftover part of something larger。
 
 # symmetric & symmetrical
 
