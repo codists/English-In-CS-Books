@@ -167,6 +167,31 @@ c. an action taken in advance to prevent sth unpleasant, dangerous or inconvinie
 
 Dynamic linking can help to ease this restriction, but it generally requires special precautions and extra work by the programmer(《Operating System Concepts》第 390 页)。
 
+# preceding
+
+- precede: pre("before") + cede(*kede-, "to go")
+
+vi/vt. literally means "to go before in xxx(在xxx之前存在的)"。不仅可以用于“in time”方面, 而且也可用于“in position”, "in rank", "in importance"等方面。
+
+- preceding & following
+
+adj. existing before something(前面的)。反义词就是“following”。
+
+示例
+
+1.
+
+Listing 2.1 Using the async keyword
+
+```
+async def my_coroutine() -> None:
+    print("Hello World")
+```
+
+The coroutine in the preceding listing does nothing yet other than print “Hello world!”(《Python Concurrency with asyncio》第 24 页)。
+
+上面这句话的意思是：上述(preceding)清单中(listing)的协程除了打印 Hello world! 之外什么都不做。这里的 preceding 是从“position”方面来说的，之前自己一直狭隘的把 preceding 理解成时间方面，导致这里理解起来怪怪的，所以记一下。
+
 # precious
 
 - precious: pretium("value, worth, price"， price 也是来自于 pretium)

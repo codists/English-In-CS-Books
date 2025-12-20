@@ -100,6 +100,20 @@ adj. logically connected and having the quality of cohering(连贯统一的)。
 
 NFS provides a means to attach remote directories to local directories, thus giving the appearance of a coherent directory tree(《Operating System Concepts》第 763 页)。
 
+# com-(词根)
+
+- with, together(一起)
+- com- 为了发音流畅，会出现同化(assimilate)
+
+| 前缀变体 | 出现条件（词根首字母）                                       | 例子（拉丁语/英语借词）                                      |
+| :------- | :----------------------------------------------------------- | :----------------------------------------------------------- |
+| **co-**  | **vowel**（元音字母，不是音标。a e i o u）和 **aspirate(送气音)**(这是音标，/h/ ） | cooperate(com- + operate > cooperate)，cohere(com- + here > cohere) |
+| **cog-** | **-g-**                                                      | cognate                                                      |
+| **col-** | **l-**                                                       | collect，collateral                                          |
+| **cor-** | **r-**                                                       | correct，correlate                                           |
+| **com-** | **m-, p-**, 以及多数唇音                                     | compress，commute                                            |
+| **con-** | **c-, d, j, n, q, s, t, v** 等（其它大部分辅音）             | connect，condone，convene                                    |
+
 # commodity
 
 - commodity:  com-("together, with") + modus("measure, manner"，*med- "take appropriate measures")
@@ -133,6 +147,22 @@ vt. give (sb) sth, like money, in recognition of loss, suffering or injure(补�
 在这个例子中，如果只看第一句“通常，操作系统能有效弥补(应对)暂时性故障”，其实不大好理解，因为没有直接体现“使用什么来弥补什么”？翻译为“弥补”也不大通畅。需要结合后面一句来理解。operating system 是怎么弥补 transient failures 的呢？使用 “ read() retry” 来弥补 “read() failure”, 使用 “resend()” 来弥补 “send() error”。
 
 从技术上来说不难理解，其实就是“重试机制”，但是如果不理解词的意思，有时候就不能很好的理解作者想表达的意思。
+
+# compound
+
+compound: com-("with, together") + ponere("to place"，参考 position)
+
+vi/vt. Compound literally means "to place together，合成，混合，叠加"。虽然很多字典里面写着“make somthing bad worse(使恶化)”，但compound 其实是中性(neutral)的，表达的是“叠加"之意。
+
+示例
+
+1.This benefit compounds as we add more tasks; if we had launched 10 of these tasks, we would still take roughly 3 seconds, giving us a 10-fold speedup(《Python Concurrency with asyncio》第 32 页)。
+
+上面这句话的意思是：随着我们增加更多任务，这一优势会不断累积；如果我们同时启动这 10 个任务，仍然大约只需 3 秒，从而实现 10 倍的加速。这里用 compound 描述好处(benefit)的叠加。
+
+2.This problem is compounded by the fact that instead of a single, cohesive codebase, the application is represented as a collection of callbacks, each responsible for a specific type of event request(《Grokking Concurrency》第 218 页)。
+
+上面这句话的意思是：这个问题的严重性在于，应用程序并非由一个单一、连贯的代码库构成，而是由一系列回调组成，每个回调负责处理特定类型的事件请求，从而使问题更加复杂。这里用 compound 描述问题(problem)的叠加.
 
 # con-
 
