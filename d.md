@@ -20,7 +20,7 @@ Trying to identify when to use which tool, however, can be a daunting challenge 
 
 - away, off
 
-示例：
+示例: deliver。
 
 # decent
 
